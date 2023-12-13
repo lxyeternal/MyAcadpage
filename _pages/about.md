@@ -90,7 +90,13 @@ He hopes to collaborate with more innovative researchers on various exciting top
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
-# 📚 Services
+# 📫 Services
 
 - Member of Junior PC of MSR 2024
 - Member of Artifact Evaluation Committee of Usenix Security 2024
+
+
+# 📚 Teaching
+
+- Teaching Assistant of SC1003: Introduction to Computer Thinking and Programming, NTU, 2023 Fall
+- Teaching Assistant of SC1006: Computer Organization and Architecture, NTU, 2023 Spring
