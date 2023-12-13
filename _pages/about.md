@@ -52,13 +52,13 @@ He hopes to collaborate with more innovative researchers on various exciting top
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ASE-2023-blue?style=flat-square)](https://ieeexplore.ieee.org/document/10298552/)
   - **Yuqiang Sun**, Zhengzi Xu, Chengwei Liu, Yiran Zhang, Yang Liu
   - The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)
-  - [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KAWDTzsAAAAJ&citation_for_view=KAWDTzsAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:qjMakFHDy7sC'></span></strong
+  - [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KAWDTzsAAAAJ&citation_for_view=KAWDTzsAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:qjMakFHDy7sC'></span></strong>
   - This paper is about measuring the contribution of developers in open source projects. We proposed an approach to fuse information from different dimensions for a more comprehensive evaluation of developer contribution. 
 
 - [WAIN: Automatic Web Application Identification and Naming Method](https://dl.acm.org/doi/abs/10.1145/3545258.3545271) 
 ![](https://img.shields.io/badge/CCF-C-green?style=flat-square)
   - **Yuqiang Sun**, Dunhan Li, Yixin Wu, Xuelin Wan, Cheng Huang
-  - Proceedings of the 13th Asia-Pacific Symposium on Internetware
+  - Proceedings of the 13th Asia-Pacific Symposium on Internetware, 2022
   - [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KAWDTzsAAAAJ&citation_for_view=KAWDTzsAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:2osOgNQ5qMEC'></span></strong>
   - This paper is about generating fingerprints for unknown web assets for better management.
 
