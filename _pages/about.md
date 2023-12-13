@@ -14,7 +14,6 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-{% assign puburl = gsDataBaseUrl | append: "google-scholar-stats/publications/" %}
 
 <span class='anchor' id='about-me'></span>
 
@@ -42,9 +41,8 @@ He hopes to collaborate with more innovative researchers on various exciting top
 
 - [When GPT Meets Program Analysis: Towards Intelligent Detection of Smart Contract Logic Vulnerabilities in GPTScan](https://arxiv.org/abs/2308.03314) 
 [![](https://img.shields.io/badge/arXiv-2308.03314-B31B1B?style=flat-square)](https://arxiv.org/abs/2308.03314)
-
   - **Yuqiang Sun**, Daoyuan Wu, Yue Xue, Han Liu, Haijun Wang, Zhengzi Xu, Xiaofei Xie, Yang Liu
-
+  - Preprint
   - [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KAWDTzsAAAAJ&citation_for_view=KAWDTzsAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:9yKSN-GCB0IC'></span></strong>
 
   - This paper is about combining LLM with static analysis method to detect vulnerabilities in smart contracts. 
@@ -52,27 +50,47 @@ He hopes to collaborate with more innovative researchers on various exciting top
 
 - [Who is the Real Hero? Measuring Developer Contribution via Multi-dimensional Data Integration](https://ieeexplore.ieee.org/document/10298552/) 
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ASE-2023-blue?style=flat-square)](https://ieeexplore.ieee.org/document/10298552/)
-
   - **Yuqiang Sun**, Zhengzi Xu, Chengwei Liu, Yiran Zhang, Yang Liu
-
-  - [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KAWDTzsAAAAJ&citation_for_view=KAWDTzsAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:qjMakFHDy7sC'></span></strong>
-
+  - The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)
+  - [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KAWDTzsAAAAJ&citation_for_view=KAWDTzsAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:qjMakFHDy7sC'></span></strong
   - This paper is about measuring the contribution of developers in open source projects. We proposed an approach to fuse information from different dimensions for a more comprehensive evaluation of developer contribution. 
 
+- [WAIN: Automatic Web Application Identification and Naming Method](https://dl.acm.org/doi/abs/10.1145/3545258.3545271) 
+![](https://img.shields.io/badge/CCF-C-green?style=flat-square)
+  - **Yuqiang Sun**, Dunhan Li, Yixin Wu, Xuelin Wan, Cheng Huang
+  - Proceedings of the 13th Asia-Pacific Symposium on Internetware
+  - [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KAWDTzsAAAAJ&citation_for_view=KAWDTzsAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:2osOgNQ5qMEC'></span></strong>
+  - This paper is about generating fingerprints for unknown web assets for better management.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [MineDetector: JavaScript Browser-side Cryptomining Detection using Static Methods](https://ieeexplore.ieee.org/abstract/document/9724605/)
+  - Peiran Wang, **Yuqiang Sun**, Cheng Huang, Yutong Du, Genpei Liang, Gang Long
+  - 2021 IEEE 24th International Conference on Computational Science and Engineering (CSE)
+  - [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KAWDTzsAAAAJ&citation_for_view=KAWDTzsAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:d1gkVwhDpl0C'></span></strong>
+  - This paper is about detecting cryptomining in JavaScript code using machine learning methods.
 
-# 🎖 Honors and Awards
+- [Session-Based Webshell Detection Using Machine Learning in Web Logs](https://www.hindawi.com/journals/scn/2019/3093809/)
+![](https://img.shields.io/badge/CCF-C-green?style=flat-square)
+  - Yixin Wu, **Yuqiang Sun**, Cheng Huang, Peng Jia, Luping Liu
+  - Security and Communication Networks, 2019
+  - [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KAWDTzsAAAAJ&citation_for_view=KAWDTzsAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:u5HHmVD_uO8C'></span></strong>
+  - This paper is about detecting webshell activities through logs of the web server with machine learning method.
+
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.08 - Now*, Ph.D. student at school of computer science and engineering, Nanyang Technological University, Singapore.
+- *2017.09 - 2021.06*, Undergraduate student at college of cyber space and engineering, Sichuan University, Chengdu, Sichuan, P.R.C. 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+<!-- # 💻 Internships
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+
+# 📚 Services
+
+- Member of Junior PC of MSR 2024
+- Member of Artifact Evaluation Committee of Usenix Security 2024
