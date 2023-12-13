@@ -45,8 +45,7 @@ He hopes to collaborate with more innovative researchers on various exciting top
 [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KAWDTzsAAAAJ&citation_for_view=KAWDTzsAAAAJ:qjMakFHDy7sC) 
 <!-- <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:qjMakFHDy7sC'></span></strong> -->
 {% assign paperId = "KAWDTzsAAAAJ:qjMakFHDy7sC" %}
-{% assign paperCitationUrl = puburl | append paperId | append '.json' %}
-<a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KAWDTzsAAAAJ&citation_for_view={{ paperId }}'><img src="https://img.shields.io/endpoint?url={{ paperCitationUrl | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=num_citations"></a>
+<a href='https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KAWDTzsAAAAJ&citation_for_view={{ paperId }}'><img src="https://img.shields.io/endpoint?url={{ puburl | append: paperId | append: ".json" | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=num_citations"></a>
 - This paper is about measuring the contribution of developers in open source projects. We proposed an approach to fuse information from different dimensions for a more comprehensive evaluation of developer contribution. 
 </div>
 </div>
