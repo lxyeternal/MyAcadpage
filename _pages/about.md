@@ -40,6 +40,16 @@ He hopes to collaborate with more innovative researchers on various exciting top
 <!-- </div>
 </div> -->
 
+- [When GPT Meets Program Analysis: Towards Intelligent Detection of Smart Contract Logic Vulnerabilities in GPTScan](https://arxiv.org/abs/2308.03314) 
+[![](https://img.shields.io/badge/arXiv-2308.03314-B31B1B?style=flat-square)](https://arxiv.org/abs/2308.03314)
+
+  - **Yuqiang Sun**, Daoyuan Wu, Yue Xue, Han Liu, Haijun Wang, Zhengzi Xu, Xiaofei Xie, Yang Liu
+
+  - [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KAWDTzsAAAAJ&citation_for_view=KAWDTzsAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:9yKSN-GCB0IC'></span></strong>
+
+  - This paper is about combining LLM with static analysis method to detect vulnerabilities in smart contracts. 
+
+
 - [Who is the Real Hero? Measuring Developer Contribution via Multi-dimensional Data Integration](https://ieeexplore.ieee.org/document/10298552/) 
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ASE-2023-blue?style=flat-square)](https://ieeexplore.ieee.org/document/10298552/)
 
