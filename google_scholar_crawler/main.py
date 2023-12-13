@@ -15,8 +15,8 @@ os.makedirs('results/publications', exist_ok=True)
 with open(f'results/gs_data.json', 'w') as outfile:
     json.dump(author, outfile, ensure_ascii=False)
 
-for pub in author['publications'].values():
-    json.dump(pub, open(f'results/publications/{pub["author_pub_id"]}.json', 'w'), ensure_ascii=False)
+# for pub in author['publications'].values():
+#     json.dump(pub, open(f'results/publications/{pub["author_pub_id"]}.json', 'w'), ensure_ascii=False)
     
 
 shieldio_data = {
