@@ -26,9 +26,9 @@ He hopes to collaborate with more innovative researchers on various exciting top
 
 
 # 🔥 News
-- *2023.08*: &nbsp;🎉🎉 Our preprint "When GPT Meets Program Analysis: Towards Intelligent Detection of Smart Contract Logic Vulnerabilities in GPTScan" is published on Arxiv! 
+- *2023.08*: &nbsp;🎉🎉 Our preprint "When GPT Meets Program Analysis: Towards Intelligent Detection of Smart Contract Logic Vulnerabilities in GPTScan" was published on Arxiv! 
 - *2023.08*: &nbsp;🎉🎉 He passed Qualifying Examination (QE) and became a Ph.D. candidate.
-- *2023.07*: &nbsp;🎉🎉 Our paper "Who is the Real Hero? Measuring Developer Contribution via Multi-dimensional Data Integration" is accepted by ASE 2023! 
+- *2023.07*: &nbsp;🎉🎉 Our paper "Who is the Real Hero? Measuring Developer Contribution via Multi-dimensional Data Integration" was accepted by ASE 2023! 
 - *2021.08*: &nbsp;🎉🎉 He joined Nanyang Technological University as a Ph.D. student. 
 
 # 📝 Publications 
@@ -42,37 +42,31 @@ He hopes to collaborate with more innovative researchers on various exciting top
 - [When GPT Meets Program Analysis: Towards Intelligent Detection of Smart Contract Logic Vulnerabilities in GPTScan](https://arxiv.org/abs/2308.03314) 
 [![](https://img.shields.io/badge/arXiv-2308.03314-B31B1B?style=flat-square)](https://arxiv.org/abs/2308.03314)
   - **Yuqiang Sun**, Daoyuan Wu, Yue Xue, Han Liu, Haijun Wang, Zhengzi Xu, Xiaofei Xie, Yang Liu
-  - Preprint
-  - [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KAWDTzsAAAAJ&citation_for_view=KAWDTzsAAAAJ:9yKSN-GCB0IC) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:9yKSN-GCB0IC'></span></strong>
-
+  - Preprint <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:9yKSN-GCB0IC'></span></strong>
   - This paper is about combining LLM with static analysis method to detect vulnerabilities in smart contracts. 
 
 
 - [Who is the Real Hero? Measuring Developer Contribution via Multi-dimensional Data Integration](https://ieeexplore.ieee.org/document/10298552/) 
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ASE-2023-blue?style=flat-square)](https://ieeexplore.ieee.org/document/10298552/)
   - **Yuqiang Sun**, Zhengzi Xu, Chengwei Liu, Yiran Zhang, Yang Liu
-  - The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023)
-  - [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KAWDTzsAAAAJ&citation_for_view=KAWDTzsAAAAJ:qjMakFHDy7sC) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:qjMakFHDy7sC'></span></strong>
+  - The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:qjMakFHDy7sC'></span></strong>
   - This paper is about measuring the contribution of developers in open source projects. We proposed an approach to fuse information from different dimensions for a more comprehensive evaluation of developer contribution. 
 
 - [WAIN: Automatic Web Application Identification and Naming Method](https://dl.acm.org/doi/abs/10.1145/3545258.3545271) 
 ![](https://img.shields.io/badge/CCF-C-green?style=flat-square)
   - **Yuqiang Sun**, Dunhan Li, Yixin Wu, Xuelin Wan, Cheng Huang
-  - Proceedings of the 13th Asia-Pacific Symposium on Internetware, 2022
-  - [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KAWDTzsAAAAJ&citation_for_view=KAWDTzsAAAAJ:2osOgNQ5qMEC) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:2osOgNQ5qMEC'></span></strong>
+  - Proceedings of the 13th Asia-Pacific Symposium on Internetware, 2022 <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:2osOgNQ5qMEC'></span></strong>
   - This paper is about generating fingerprints for unknown web assets for better management.
 
 - [MineDetector: JavaScript Browser-side Cryptomining Detection using Static Methods](https://ieeexplore.ieee.org/abstract/document/9724605/)
   - Peiran Wang, **Yuqiang Sun**, Cheng Huang, Yutong Du, Genpei Liang, Gang Long
-  - 2021 IEEE 24th International Conference on Computational Science and Engineering (CSE)
-  - [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KAWDTzsAAAAJ&citation_for_view=KAWDTzsAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:d1gkVwhDpl0C'></span></strong>
+  - 2021 IEEE 24th International Conference on Computational Science and Engineering (CSE) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:d1gkVwhDpl0C'></span></strong>
   - This paper is about detecting cryptomining in JavaScript code using machine learning methods.
 
 - [Session-Based Webshell Detection Using Machine Learning in Web Logs](https://www.hindawi.com/journals/scn/2019/3093809/)
 ![](https://img.shields.io/badge/CCF-C-green?style=flat-square)
   - Yixin Wu, **Yuqiang Sun**, Cheng Huang, Peng Jia, Luping Liu
-  - Security and Communication Networks, 2019
-  - [**Paper**](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KAWDTzsAAAAJ&citation_for_view=KAWDTzsAAAAJ:u5HHmVD_uO8C) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:u5HHmVD_uO8C'></span></strong>
+  - Security and Communication Networks, 2019 <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:u5HHmVD_uO8C'></span></strong>
   - This paper is about detecting webshell activities through logs of the web server with machine learning method.
 
 <!-- # 🎖 Honors and Awards
