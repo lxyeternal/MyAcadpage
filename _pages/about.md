@@ -40,7 +40,7 @@ He hopes to collaborate with more innovative researchers on various exciting top
 <!-- </div>
 </div> -->
 
-- GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis
+- [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/114/GPTScan-Detecting-Logic-Vulnerabilities-in-Smart-Contracts-by-Combining-GPT-with-Pro)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ICSE-2024-blue?style=flat-square)]()
   - **Yuqiang Sun**, Daoyuan Wu, Yue Xue, Han Liu, Haijun Wang, Zhengzi Xu, Xiaofei Xie, Yang Liu
   - To appear in ACM SIGSOFT International Conference on Software Engineering (ICSE), Lisbon, Portugal, 2024.
