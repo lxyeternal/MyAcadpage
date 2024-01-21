@@ -95,6 +95,7 @@ He hopes to collaborate with more innovative researchers on various exciting top
 
 - Member of Junior PC of MSR 2024
 - Member of Artifact Evaluation Committee of Usenix Security 2024
+- Sub-reviewer: ICSE, ISSTA, ASE, RAID, AisaCCS, ICICS
 
 
 # 📚 Teaching
