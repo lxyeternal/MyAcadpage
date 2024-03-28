@@ -40,6 +40,12 @@ He hopes to collaborate with more innovative researchers on various exciting top
 <!-- </div>
 </div> -->
 
+- [Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications](https://arxiv.org/abs/2403.16073) 
+[![](https://img.shields.io/badge/arXiv-2403.16073-B31B1B?style=flat-square)](https://arxiv.org/abs/2403.16073)
+  - Wei Ma, Daoyuan Wu, **Yuqiang Sun**, Tianwen Wang, Shangqing Liu, Jian Zhang, Yue Xue, Yang Liu
+  - Preprint <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:W7OEmFMy1HYC'></span></strong>
+  - This paper is about fine-tuning LLMs with knowledge about logic bugs in smart contract to detect vulnerabilities.
+
 - [LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning](https://arxiv.org/abs/2401.16185) 
 [![](https://img.shields.io/badge/arXiv-2401.16185-B31B1B?style=flat-square)](https://arxiv.org/abs/2401.16185)
   - **Yuqiang Sun**, Daoyuan Wu, Yue Xue, Han Liu, Wei Ma, Lyuye Zhang, Miaolei Shi, Yang Liu
@@ -92,8 +98,8 @@ He hopes to collaborate with more innovative researchers on various exciting top
 
 # 📫 Services
 
-- Member of Junior PC of MSR 2024
-- Member of Artifact Evaluation Committee of Usenix Security 2024
+- Junior PC: MSR 2024
+- Artifact Evaluation: Usenix Security 2024, ISSTA 2024
 - Journals: TDSC
 - Sub-reviewer: ICSE, ISSTA, ASE, RAID, AisaCCS, ICICS
 
