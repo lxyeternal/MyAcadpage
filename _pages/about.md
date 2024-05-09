@@ -40,6 +40,12 @@ He hopes to collaborate with more innovative researchers on various exciting top
 <!-- </div>
 </div> -->
 
+- [PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation](https://arxiv.org/abs/2405.02580) 
+[![](https://img.shields.io/badge/arXiv-2405.02580-B31B1B?style=flat-square)](https://arxiv.org/abs/2405.02580)
+  - Ye Liu, Yue Xue, Daoyuan Wu, **Yuqiang Sun**, Yi Li, Miaolei Shi, Yang Liu
+  - Preprint <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:eQOLeE2rZwMC'></span></strong>
+  - This paper is about generating formal verification rules with LLM for vulnerability detection.
+
 - [Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications](https://arxiv.org/abs/2403.16073) 
 [![](https://img.shields.io/badge/arXiv-2403.16073-B31B1B?style=flat-square)](https://arxiv.org/abs/2403.16073)
   - Wei Ma, Daoyuan Wu, **Yuqiang Sun**, Tianwen Wang, Shangqing Liu, Jian Zhang, Yue Xue, Yang Liu
