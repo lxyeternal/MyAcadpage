@@ -58,7 +58,7 @@ He hopes to collaborate with more innovative researchers on various exciting top
   - Preprint <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:zYLM7Y9cAGgC'></span></strong>
   - This paper is about enhancing the ability of LLMs in detecting vulnerabilities by providing extra knowledege and external tools. 
 
-- [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://conf.researchr.org/details/icse-2024/icse-2024-research-track/114/GPTScan-Detecting-Logic-Vulnerabilities-in-Smart-Contracts-by-Combining-GPT-with-Pro)
+- [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://dl.acm.org/doi/abs/10.1145/3597503.3639117)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ICSE-2024-blue?style=flat-square)]() [![](https://img.shields.io/badge/arXiv-2308.03314-B31B1B?style=flat-square)](https://arxiv.org/abs/2308.03314)
   - **Yuqiang Sun**, Daoyuan Wu, Yue Xue, Han Liu, Haijun Wang, Zhengzi Xu, Xiaofei Xie, Yang Liu
   - The 46th IEEE/ACM International Conference on Software Engineering (ICSE 2024) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:YsMSGLbcyi4C'></span></strong>
@@ -96,9 +96,8 @@ He hopes to collaborate with more innovative researchers on various exciting top
 - *2021.08 - Now*, Ph.D. student at school of computer science and engineering, Nanyang Technological University, Singapore.
 - *2017.09 - 2021.06*, Undergraduate student at college of cyber space and engineering, Sichuan University, Chengdu, Sichuan, P.R.C. 
 
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
+# 💬 Invited Talks
+- *2024.05*, LLM-Empowered Vulnerability Detection with Knowledge Retrieval and Static Analysis. GeekCon 2024 @ Singapore (Coming soon...)
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
