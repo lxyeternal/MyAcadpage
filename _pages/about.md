@@ -64,6 +64,7 @@ He hopes to collaborate with more innovative researchers on various exciting top
   - The 46th IEEE/ACM International Conference on Software Engineering (ICSE 2024) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:YsMSGLbcyi4C'></span></strong>
   - This paper is about combining LLM with static analysis method to detect vulnerabilities in smart contracts. 
   - [Slides for ICSE 2024](assets/pdf/GPTScanSlides.pdf)
+  - GPTScan is now open-sourced. Find more at [this website](https://gptscan.github.io/).
 
 - [Who is the Real Hero? Measuring Developer Contribution via Multi-dimensional Data Integration](https://ieeexplore.ieee.org/document/10298552/) 
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ASE-2023-blue?style=flat-square)](https://ieeexplore.ieee.org/document/10298552/)
