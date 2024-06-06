@@ -40,7 +40,8 @@ He hopes to collaborate with more innovative researchers on various exciting top
 <!-- </div>
 </div> -->
 
-- [Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts]()![](https://img.shields.io/badge/CCF-A-red?style=flat-square)[![](https://img.shields.io/badge/UsenixSecurity-2024-blue?style=flat-square)]()
+- [Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts]()
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square)[![](https://img.shields.io/badge/UsenixSecurity-2024-blue?style=flat-square)]()
   - Han Liu, Daoyuan Wu, **Yuqiang Sun**, Haijun Wang, Kaixuan Li, Yang Liu, Yixiang Chen
   - Usenix Security 2024
   - This paper is about using static analysis to find the unsafe implementations of OpenZeppelin based projects.
@@ -103,7 +104,8 @@ He hopes to collaborate with more innovative researchers on various exciting top
 - *2017.09 - 2021.06*, Undergraduate student at college of cyber space and engineering, Sichuan University, Chengdu, Sichuan, P.R.C. 
 
 # 💬 Invited Talks
-- *2024.05*, LLM-Empowered Vulnerability Detection with Knowledge Retrieval and Static Analysis. GeekCon 2024 @ Singapore (Coming soon...)
+- *2024.05*, Transforming Language Models into Smart Contract Audit Experts. GeekCon 2024 @ Singapore
+  - [Slides](assets/pdf/geekcon2024.pdf)
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
