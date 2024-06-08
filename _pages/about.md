@@ -17,20 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Yuqiang Sun (孙宇强 in Chinese) is now a Ph.D. student in School of Computer Science and Engineering @ Nanyang Technological University, supervised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/).
-Before Ph.D. study, he got his bachelor degree in Sichuan University.
-His research interests include program analysis, vulnerability detection and patch generation.
-He hopes to collaborate with more innovative researchers on various exciting topics in software engineering, program analysis, vulnerability detection, and program synthesis.
+Wenbo Guo (郭文博) is a first-year Ph.D. student in the School of Computer Science at Nanyang Technological University (NTU), advised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/).
 
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=KAWDTzsAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=KAWDTzsAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+In 2020, he graduated with honors and earned his Bachelor's degree from Sichuan University. He was subsequently offered direct admission to graduate school at the School of Cyber Security at Sichuan University, where he continued his academic journey towards a Master's degree. During this stage, he was co-advised by Prof. Fang Yong and [Prof. Cheng Huang](https://chenghuang.org/).
+
+His research interests include supply chain security and open-source intelligence.
 
 
 # 🔥 News
-- *2024.01*: &nbsp;🎉🎉 Happy new year! Our preprint "LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning" was available on Arxiv! 
-- *2023.12*: &nbsp;🎉🎉 Our paper "GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis" was accepted to appear in ACM SIGSOFT International Conference on Software Engineering (ICSE), Lisbon, Portugal, 2024.
-- *2023.08*: &nbsp;🎉🎉 He passed Qualifying Examination (QE) and became a Ph.D. candidate.
-- *2023.07*: &nbsp;🎉🎉 Our paper "Who is the Real Hero? Measuring Developer Contribution via Multi-dimensional Data Integration" was accepted by ASE 2023! 
-- *2021.08*: &nbsp;🎉🎉 He joined Nanyang Technological University as a Ph.D. student. 
+- *2024.01*: &nbsp;🎉🎉 He joined the Nanyang Technological University as a Ph.D. student.
+- *2023.07*: &nbsp;🎉🎉 Our paper "An Empirical Study of Malicious Code In PyPI Ecosystem" was accepted by ASE 2023! 
+- *2023.06*: &nbsp;🎉🎉 He obtained the master's degree from SCU.
+- *2023.03*: &nbsp;🎉🎉 He was awarded the title of Outstanding Graduate of Sichuan Province.
 
 # 📝 Publications 
 
@@ -40,85 +38,73 @@ He hopes to collaborate with more innovative researchers on various exciting top
 <!-- </div>
 </div> -->
 
-- [Using My Functions Should Follow My Checks: Understanding and Detecting Insecure OpenZeppelin Code in Smart Contracts]()
-![](https://img.shields.io/badge/CCF-A-red?style=flat-square)[![](https://img.shields.io/badge/UsenixSecurity-2024-blue?style=flat-square)]()
-  - Han Liu, Daoyuan Wu, **Yuqiang Sun**, Haijun Wang, Kaixuan Li, Yang Liu, Yixiang Chen
-  - Usenix Security 2024
-  - This paper is about using static analysis to find the unsafe implementations of OpenZeppelin based projects.
-
-- [PropertyGPT: LLM-driven Formal Verification of Smart Contracts through Retrieval-Augmented Property Generation](https://arxiv.org/abs/2405.02580) 
-[![](https://img.shields.io/badge/arXiv-2405.02580-B31B1B?style=flat-square)](https://arxiv.org/abs/2405.02580)
-  - Ye Liu, Yue Xue, Daoyuan Wu, **Yuqiang Sun**, Yi Li, Miaolei Shi, Yang Liu
-  - Preprint <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:eQOLeE2rZwMC'></span></strong>
+- [Few-shot graph classification on cross-site scripting attacks detection](https://www.sciencedirect.com/science/article/abs/pii/S0167404824000506) 
+![](https://img.shields.io/badge/CCF-B-blue?style=flat-square)
+  - Hongyu Pan, Yong Fang, **Wenbo Guo**, Yijia Xu, Changhui Wang
+  - Computers & Security, 2024 <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:eQOLeE2rZwMC'></span></strong>
   - This paper is about generating formal verification rules with LLM for vulnerability detection.
 
-- [Combining Fine-Tuning and LLM-based Agents for Intuitive Smart Contract Auditing with Justifications](https://arxiv.org/abs/2403.16073) 
-[![](https://img.shields.io/badge/arXiv-2403.16073-B31B1B?style=flat-square)](https://arxiv.org/abs/2403.16073)
-  - Wei Ma, Daoyuan Wu, **Yuqiang Sun**, Tianwen Wang, Shangqing Liu, Jian Zhang, Yue Xue, Yang Liu
-  - Preprint <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:W7OEmFMy1HYC'></span></strong>
-  - This paper is about fine-tuning LLMs with knowledge about logic bugs in smart contract to detect vulnerabilities.
+- [An Empirical Study of Malicious Code In PyPI Ecosystem](https://arxiv.org/pdf/2309.11021) 
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square)
+  - **Wenbo Guo**, Zhengzi Xu, Chengwei Liu, Cheng Huang, Yong Fang, Yang Liu
+  - 2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:UeHWp8X0CEIC'></span></strong>
+  - This paper is a empirical study paper for the malicious packages in the PyPI Package Manager.
 
-- [LLM4Vuln: A Unified Evaluation Framework for Decoupling and Enhancing LLMs' Vulnerability Reasoning](https://arxiv.org/abs/2401.16185) 
-[![](https://img.shields.io/badge/arXiv-2401.16185-B31B1B?style=flat-square)](https://arxiv.org/abs/2401.16185)
-  - **Yuqiang Sun**, Daoyuan Wu, Yue Xue, Han Liu, Wei Ma, Lyuye Zhang, Miaolei Shi, Yang Liu
-  - Preprint <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:zYLM7Y9cAGgC'></span></strong>
-  - This paper is about enhancing the ability of LLMs in detecting vulnerabilities by providing extra knowledege and external tools. 
+- [HyVulDect: a hybrid semantic vulnerability mining system based on graph neural network](https://dl.acm.org/doi/10.1016/j.cose.2022.102823) 
+![](https://img.shields.io/badge/CCF-B-blue?style=flat-square)
+  - **Wenbo Guo**, Yong Fang, Cheng Huang, Haoran Ou, Chun Lin, Yongyan Guo
+  - Computers & Security, 2022 <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:9yKSN-GCB0IC'></span></strong>
+  - This paper is about vulnerability detection based on the graph neural network. 
 
-- [GPTScan: Detecting Logic Vulnerabilities in Smart Contracts by Combining GPT with Program Analysis](https://dl.acm.org/doi/abs/10.1145/3597503.3639117)
-![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ICSE-2024-blue?style=flat-square)]() [![](https://img.shields.io/badge/arXiv-2308.03314-B31B1B?style=flat-square)](https://arxiv.org/abs/2308.03314)
-  - **Yuqiang Sun**, Daoyuan Wu, Yue Xue, Han Liu, Haijun Wang, Zhengzi Xu, Xiaofei Xie, Yang Liu
-  - The 46th IEEE/ACM International Conference on Software Engineering (ICSE 2024) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:YsMSGLbcyi4C'></span></strong>
-  - This paper is about combining LLM with static analysis method to detect vulnerabilities in smart contracts. 
-  - [Slides for ICSE 2024](assets/pdf/GPTScanSlides.pdf)
-  - GPTScan is now open-sourced. Find more at [this website](https://gptscan.github.io/).
+- [Viopolicy-detector: An automated approach to detecting GDPR suspected compliance violations in websites](https://dl.acm.org/doi/abs/10.1145/3545948.3545952)
+![](https://img.shields.io/badge/CCF-B-blue?style=flat-square)
+  - Haoran Ou, Yong Fang, Yongyan Guo, **Wenbo Guo**, Cheng Huang
+  - Proceedings of the 25th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2022) <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:u5HHmVD_uO8C'></span></strong>
+  - This paper is about detecting privacy compliance using machine learning method. 
 
-- [Who is the Real Hero? Measuring Developer Contribution via Multi-dimensional Data Integration](https://ieeexplore.ieee.org/document/10298552/) 
-![](https://img.shields.io/badge/CCF-A-red?style=flat-square) [![](https://img.shields.io/badge/ASE-2023-blue?style=flat-square)](https://ieeexplore.ieee.org/document/10298552/)
-  - **Yuqiang Sun**, Zhengzi Xu, Chengwei Liu, Yiran Zhang, Yang Liu
-  - The 38th IEEE/ACM International Conference on Automated Software Engineering (ASE 2023) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:qjMakFHDy7sC'></span></strong>
-  - This paper is about measuring the contribution of developers in open source projects. We proposed an approach to fuse information from different dimensions for a more comprehensive evaluation of developer contribution. 
+- [Intelligent mining vulnerabilities in python code snippets](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs211011) 
+  - **Wenbo Guo**, Cheng Huang, Weina Niu, Yong Fang
+  - Journal of Intelligent & Fuzzy Systems, 2021 <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:u-x6o8ySG0sC'></span></strong>
+  - This paper is about detecting python vulnerability using the machine learning method. 
 
-- [WAIN: Automatic Web Application Identification and Naming Method](https://dl.acm.org/doi/abs/10.1145/3545258.3545271) 
+- [HackerRank: Identifying key hackers in underground forums](https://journals.sagepub.com/doi/full/10.1177/15501477211015145) 
+  - Cheng Huang, Yongyan Guo, **Wenbo Guo**, Ying Li
+  - International Journal of Distributed Sensor Networks, 2021 <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:d1gkVwhDpl0C'></span></strong>
+  - This paper is about detecting key hackers in the underground forums.
+
+- [No Pie in the Sky: The Digital Currency Fraud Website Detection](https://www.researchgate.net/profile/Wenbo-Guo-17/publication/361056023_No_Pie_in_the_Sky_The_Digital_Currency_Fraud_Website_Detection/links/650cf4e7c05e6d1b1c21c9a5/No-Pie-in-the-Sky-The-Digital-Currency-Fraud-Website-Detection.pdf)
+  - Haoran Ou, Yongyan Guo, Chaoyi Huang, Zhiying Zhao, **Wenbo Guo**, Yong Fang, Cheng Huang
+  - 2021 IEEE 12th EAI International Conference on Digital Forensics & Cyber Crime (ICDF2C) <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:qjMakFHDy7sC'></span></strong>
+  - This paper is about detecting Ponzi cryptocurrency using machine learning methods.
+
+- [Research on QR code logistics privacy based on segmented encryption and time-limited control](https://www.infocomm-journal.com/cjnis/CN/10.11959/j.issn.2096-109x.2019039)
 ![](https://img.shields.io/badge/CCF-C-green?style=flat-square)
-  - **Yuqiang Sun**, Dunhan Li, Yixin Wu, Xuelin Wan, Cheng Huang
-  - Proceedings of the 13th Asia-Pacific Symposium on Internetware, 2022 <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:2osOgNQ5qMEC'></span></strong>
-  - This paper is about generating fingerprints for unknown web assets for better management.
-
-- [MineDetector: JavaScript Browser-side Cryptomining Detection using Static Methods](https://ieeexplore.ieee.org/abstract/document/9724605/)
-  - Peiran Wang, **Yuqiang Sun**, Cheng Huang, Yutong Du, Genpei Liang, Gang Long
-  - 2021 IEEE 24th International Conference on Computational Science and Engineering (CSE) <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:d1gkVwhDpl0C'></span></strong>
-  - This paper is about detecting cryptomining in JavaScript code using machine learning methods.
-
-- [Session-Based Webshell Detection Using Machine Learning in Web Logs](https://www.hindawi.com/journals/scn/2019/3093809/)
-![](https://img.shields.io/badge/CCF-C-green?style=flat-square)
-  - Yixin Wu, **Yuqiang Sun**, Cheng Huang, Peng Jia, Luping Liu
-  - Security and Communication Networks, 2019 <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:u5HHmVD_uO8C'></span></strong>
-  - This paper is about detecting webshell activities through logs of the web server with machine learning method.
-
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+  - Liang Liu, **Wenbo Guo**, Yuwei Yang, Huaiyu Guo
+  - Chinese Journal of Network and Information Security, 2019 <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:IjCSPb-OGe4C'></span></strong>
+  - This paper is about a privacy protection scheme based on QR code segmentation encryption.
 
 # 📖 Educations
-- *2021.08 - Now*, Ph.D. student at school of computer science and engineering, Nanyang Technological University, Singapore.
-- *2017.09 - 2021.06*, Undergraduate student at college of cyber space and engineering, Sichuan University, Chengdu, Sichuan, P.R.C. 
+- *2024.01 - Now*, Ph.D. student at school of computer science and engineering, Nanyang Technological University, Singapore.
+- *2020.09 - 2023.06*, Postgraduate student at college of cyber space and engineering, Sichuan University, Chengdu, Sichuan, P.R.C. 
+- *2016.09 - 2020.06*, Undergraduate student at college of cyber space and engineering, Sichuan University, Chengdu, Sichuan, P.R.C. 
 
-# 💬 Invited Talks
+ # 🎖 Honors and Awards
+- *2023.06* Sichuan Province Government, Excellent Graduates.
+- *2021.12* Sichuan University, Dahua Scholarship.
+- *2019.10* Chinese Ministry of Education, National Inspirational Scholarship. 
+
+<!-- # 💬 Invited Talks
 - *2024.05*, Transforming Language Models into Smart Contract Audit Experts. GeekCon 2024 @ Singapore
-  - [Slides](assets/pdf/geekcon2024.pdf)
+  - [Slides](assets/pdf/geekcon2024.pdf) -->
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
 
 # 📫 Services
 
-- Junior PC: MSR 2024
-- Artifact Evaluation: Usenix Security 2024, ISSTA 2024
-- Journals: TDSC
-- Sub-reviewer: ICSE, ISSTA, ASE, RAID, AisaCCS, ICICS
+- Reviewer: Journal of Intelligent & Fuzzy Systems (2022)
 
 
 # 📚 Teaching
 
-- Teaching Assistant of SC1003: Introduction to Computer Thinking and Programming, NTU, 2023 Fall
-- Teaching Assistant of SC1006: Computer Organization and Architecture, NTU, 2023 Spring
+- Part-time Student Mentor: School of Cyber Science and Engineering @ SCU, 2020-2023
