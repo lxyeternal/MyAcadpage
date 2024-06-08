@@ -72,7 +72,7 @@ His research interests include supply chain security and open-source intelligenc
   - International Journal of Distributed Sensor Networks, 2021 <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:d1gkVwhDpl0C'></span></strong>
   - This paper is about detecting key hackers in the underground forums.
 
-- [No Pie in the Sky: The Digital Currency Fraud Website Detection](https://www.researchgate.net/profile/Wenbo-Guo-17/publication/361056023_No_Pie_in_the_Sky_The_Digital_Currency_Fraud_Website_Detection/links/650cf4e7c05e6d1b1c21c9a5/No-Pie-in-the-Sky-The-Digital-Currency-Fraud-Website-Detection.pdf)
+- [No Pie in the Sky: The Digital Currency Fraud Website Detection](https://link.springer.com/chapter/10.1007/978-3-031-06365-7_11)
   - Haoran Ou, Yongyan Guo, Chaoyi Huang, Zhiying Zhao, **Wenbo Guo**, Yong Fang, Cheng Huang
   - 2021 IEEE 12th EAI International Conference on Digital Forensics & Cyber Crime (ICDF2C) <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:qjMakFHDy7sC'></span></strong>
   - This paper is about detecting Ponzi cryptocurrency using machine learning methods.
