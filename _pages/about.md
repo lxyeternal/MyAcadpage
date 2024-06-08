@@ -42,7 +42,7 @@ His research interests include supply chain security and open-source intelligenc
 ![](https://img.shields.io/badge/CCF-B-blue?style=flat-square)
   - Hongyu Pan, Yong Fang, **Wenbo Guo**, Yijia Xu, Changhui Wang
   - Computers & Security, 2024 <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:eQOLeE2rZwMC'></span></strong>
-  - This paper is about generating formal verification rules with LLM for vulnerability detection.
+  - This paper is about detecting cross-site scripting attacks using the few-shot learning.
 
 - [An Empirical Study of Malicious Code In PyPI Ecosystem](https://arxiv.org/pdf/2309.11021) 
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)
