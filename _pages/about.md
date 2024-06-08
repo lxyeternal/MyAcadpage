@@ -25,6 +25,7 @@ His research interests include supply chain security and open-source intelligenc
 
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉🎉 He was appointed as a member of the Datacon Expert Committee.
 - *2024.01*: &nbsp;🎉🎉 He joined the Nanyang Technological University as a Ph.D. student.
 - *2023.07*: &nbsp;🎉🎉 Our paper "An Empirical Study of Malicious Code In PyPI Ecosystem" was accepted by ASE 2023! 
 - *2023.06*: &nbsp;🎉🎉 He obtained the master's degree from SCU.
