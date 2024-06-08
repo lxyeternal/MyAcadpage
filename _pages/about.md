@@ -31,6 +31,7 @@ His research interests include supply chain security and open-source intelligenc
 - *2023.06*: &nbsp;🎉🎉 He obtained the master's degree from SCU.
 - *2023.03*: &nbsp;🎉🎉 He was awarded the title of Outstanding Graduate of Sichuan Province.
 
+
 # 📝 Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -86,10 +87,12 @@ His research interests include supply chain security and open-source intelligenc
   - Chinese Journal of Network and Information Security, 2019 <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:IjCSPb-OGe4C'></span></strong>
   - This paper is about a privacy protection scheme based on QR code segmentation encryption.
 
+
 # 📖 Educations
 - *2024.01 - Now*, Ph.D. student at school of computer science and engineering, Nanyang Technological University, Singapore.
 - *2020.09 - 2023.06*, Postgraduate student at School of Cyber Science and Engineering, Sichuan University, Chengdu, Sichuan, P.R.C. 
-- *2016.09 - 2020.06*, Undergraduate student at School of Cyber Science and Engineering, Sichuan University, Chengdu, Sichuan, P.R.C. 
+- *2016.09 - 2020.06*, Undergraduate student at School of Cyber Science and Engineering, Sichuan University, Chengdu, Sichuan, P.R.C.
+ 
 
 # 🎖 Honors and Awards
 - *2023.06* Sichuan Province Government, Excellent Graduates.
