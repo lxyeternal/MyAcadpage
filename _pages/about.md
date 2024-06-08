@@ -88,7 +88,7 @@ His research interests include supply chain security and open-source intelligenc
 - *2020.09 - 2023.06*, Postgraduate student at college of cyber space and engineering, Sichuan University, Chengdu, Sichuan, P.R.C. 
 - *2016.09 - 2020.06*, Undergraduate student at college of cyber space and engineering, Sichuan University, Chengdu, Sichuan, P.R.C. 
 
- # 🎖 Honors and Awards
+# 🎖 Honors and Awards
 - *2023.06* Sichuan Province Government, Excellent Graduates.
 - *2021.12* Sichuan University, Dahua Scholarship.
 - *2019.10* Chinese Ministry of Education, National Inspirational Scholarship. 
