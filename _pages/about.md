@@ -86,8 +86,8 @@ His research interests include supply chain security and open-source intelligenc
 
 # 📖 Educations
 - *2024.01 - Now*, Ph.D. student at school of computer science and engineering, Nanyang Technological University, Singapore.
-- *2020.09 - 2023.06*, Postgraduate student at college of cyber space and engineering, Sichuan University, Chengdu, Sichuan, P.R.C. 
-- *2016.09 - 2020.06*, Undergraduate student at college of cyber space and engineering, Sichuan University, Chengdu, Sichuan, P.R.C. 
+- *2020.09 - 2023.06*, Postgraduate student at School of Cyber Science and Engineering, Sichuan University, Chengdu, Sichuan, P.R.C. 
+- *2016.09 - 2020.06*, Undergraduate student at School of Cyber Science and Engineering, Sichuan University, Chengdu, Sichuan, P.R.C. 
 
 # 🎖 Honors and Awards
 - *2023.06* Sichuan Province Government, Excellent Graduates.
