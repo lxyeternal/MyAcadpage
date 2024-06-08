@@ -48,7 +48,8 @@ His research interests include supply chain security and open-source intelligenc
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)
   - **Wenbo Guo**, Zhengzi Xu, Chengwei Liu, Cheng Huang, Yong Fang, Yang Liu
   - 2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:UeHWp8X0CEIC'></span></strong>
-  - This paper is a empirical study paper for the malicious packages in the PyPI Package Manager.
+  - This paper is the empirical study paper for the malicious packages in the PyPI Package Manager.
+  - We constructed the largest PyPI malicious package dataset and open-sourced the dataset at [here](https://github.com/lxyeternal/pypi_malregistry)
 
 - [HyVulDect: a hybrid semantic vulnerability mining system based on graph neural network](https://dl.acm.org/doi/10.1016/j.cose.2022.102823) 
 ![](https://img.shields.io/badge/CCF-B-blue?style=flat-square)
