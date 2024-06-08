@@ -74,6 +74,7 @@ His research interests include supply chain security and open-source intelligenc
   - This paper is about detecting key hackers in the underground forums.
 
 - [No Pie in the Sky: The Digital Currency Fraud Website Detection](https://link.springer.com/chapter/10.1007/978-3-031-06365-7_11)
+![](https://img.shields.io/badge/CCF-C-green?style=flat-square)
   - Haoran Ou, Yongyan Guo, Chaoyi Huang, Zhiying Zhao, **Wenbo Guo**, Yong Fang, Cheng Huang
   - 2021 IEEE 12th EAI International Conference on Digital Forensics & Cyber Crime (ICDF2C) <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:qjMakFHDy7sC'></span></strong>
   - This paper is about detecting Ponzi cryptocurrency using machine learning methods.
