@@ -42,7 +42,7 @@ His research interests include supply chain security and open-source intelligenc
 </div> -->
 
 - [PackageIntel: Leveraging Large Language Models for Automated Intelligence Extraction in Package Ecosystems](https://arxiv.org/abs/2409.15049) 
-![](https://img.shields.io/badge/2409.15049-B31B1B?style=flat-square)](https://arxiv.org/abs/2409.15049)
+[![](https://img.shields.io/badge/2409.15049-B31B1B?style=flat-square)](https://arxiv.org/abs/2409.15049)
   - **Wenbo Guo**, Chengwei Liu, Limin Wang, Jiahui Wu, Zhengzi Xu, Cheng Huang, Yong Fang, Yang Liu
   - Preprint
   - This paper is about building a malicious package database for package managers to shorten the lifecycle of malicious packages in the wild.
