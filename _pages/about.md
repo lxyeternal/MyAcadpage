@@ -25,6 +25,7 @@ His research interests include supply chain security and open-source intelligenc
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 Our paper "IntelliRadar: A Comprehensive Platform to Pinpoint Malicious Packages from Cyber Intelligence" was accepted by ICSE 2026! 
 - *2025.10*: &nbsp;🎉🎉 He successfully passed the Qualifying Examination (QE) and became a Ph.D. candidate at NTU!
 - *2024.09*: &nbsp;🎉🎉 Our preprint “PackageIntel: Leveraging Large Language Models for Automated Intelligence Extraction in Package Ecosystems” was available on Arxiv!
 - *2024.05*: &nbsp;🎉🎉 He was appointed as a member of the Datacon Expert Committee.
