@@ -27,6 +27,7 @@ His research interests include supply chain security and open-source intelligenc
 # 🔥 News
 - *2025.10*: &nbsp;🎉🎉 Our paper "IntelliRadar: A Comprehensive Platform to Pinpoint Malicious Packages from Cyber Intelligence" was accepted by ICSE 2026! 
 - *2025.10*: &nbsp;🎉🎉 He successfully passed the Qualifying Examination (QE) and became a Ph.D. candidate at NTU!
+- *2025.09*: &nbsp;🎉🎉 Our paper "BinStruct: Binary Structure Recovery Combining Static Analysis and Semantics" was accepted by ICSE 2025! 
 - *2024.09*: &nbsp;🎉🎉 Our preprint “PackageIntel: Leveraging Large Language Models for Automated Intelligence Extraction in Package Ecosystems” was available on Arxiv!
 - *2024.05*: &nbsp;🎉🎉 He was appointed as a member of the Datacon Expert Committee.
 - *2024.01*: &nbsp;🎉🎉 He joined the Nanyang Technological University as a Ph.D. student.
@@ -43,7 +44,19 @@ His research interests include supply chain security and open-source intelligenc
 <!-- </div>
 </div> -->
 
-- [SpearBot: Leveraging Large Language Models in a Generative-Critique Framework for Spear-Phishing Email Generation](链接)
+- [IntelliRadar: A Comprehensive Platform to Pinpoint Malicious Packages from Cyber Intelligence](https://arxiv.org/abs/2409.15049)
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square)
+  - **Wenbo Guo**, Chengwei Liu, Limin Wang, Yiran Zhang, Jiahui Wu, Zhengzi Xu, Yang Liu
+  - 48th International Conference on Software Engineering (ICSE), 2026
+  - This paper presents IntelliRadar, a comprehensive platform designed to identify and pinpoint malicious packages using cyber intelligence.
+
+- [BinStruct: Binary Structure Recovery Combining Static Analysis and Semantics]()
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square)
+  - Yiran Zhang, Zhengzi Xu, Zhe Lang, Chengyue Liu, Yuqiang Sun, **Wenbo Guo**, Chengwei Liu, Weisong Sun, Yang Liu
+  - 40th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2025
+  - This paper proposes BinStruct, a novel framework that combines static analysis and semantics for binary structure recovery.
+
+- [SpearBot: Leveraging Large Language Models in a Generative-Critique Framework for Spear-Phishing Email Generation](https://www.sciencedirect.com/science/article/abs/pii/S1566253525002490)
 ![](https://img.shields.io/badge/Journal-Q1-red?style=flat-square)
   - Qinglin Qi, Yun Luo, Yijia Xu, **Wenbo Guo**, Yong Fang
   - Information Fusion, Volume 122, 2025 <strong><span class='show_paper_citations' data='你的Google Scholar ID:citation key'></span></strong>
