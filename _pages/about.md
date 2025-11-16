@@ -68,12 +68,6 @@ His research interests include supply chain security and open-source intelligenc
   - Information Fusion, Volume 122, 2025 <strong><span class='show_paper_citations' data='你的Google Scholar ID:citation key'></span></strong>
   - This paper proposes SpearBot, a novel framework that leverages large language models in a generative-critique approach for automated spear-phishing email generation.
 
-- [PackageIntel: Leveraging Large Language Models for Automated Intelligence Extraction in Package Ecosystems](https://arxiv.org/abs/2409.15049) 
-[![](https://img.shields.io/badge/2409.15049-B31B1B?style=flat-square)](https://arxiv.org/abs/2409.15049)
-  - **Wenbo Guo**, Chengwei Liu, Limin Wang, Jiahui Wu, Zhengzi Xu, Cheng Huang, Yong Fang, Yang Liu
-  - Preprint
-  - This paper is about building a malicious package database for package managers to shorten the lifecycle of malicious packages in the wild.
-
 - [Few-shot graph classification on cross-site scripting attacks detection](https://www.sciencedirect.com/science/article/abs/pii/S0167404824000506) 
 ![](https://img.shields.io/badge/CCF-B-blue?style=flat-square)
   - Hongyu Pan, Yong Fang, **Wenbo Guo**, Yijia Xu, Changhui Wang
@@ -81,7 +75,7 @@ His research interests include supply chain security and open-source intelligenc
   - This paper is about detecting cross-site scripting attacks using the few-shot learning.
 
 - [An Empirical Study of Malicious Code In PyPI Ecosystem](https://arxiv.org/pdf/2309.11021) 
-![](https://img.shields.io/badge/CCF-A-red?style=flat-square)
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square) 
   - **Wenbo Guo**, Zhengzi Xu, Chengwei Liu, Cheng Huang, Yong Fang, Yang Liu
   - 2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:UeHWp8X0CEIC'></span></strong>
   - This paper is the empirical study paper for the malicious packages in the PyPI Package Manager.
