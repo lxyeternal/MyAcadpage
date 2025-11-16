@@ -28,6 +28,7 @@ His research interests include supply chain security and open-source intelligenc
 - *2025.10*: &nbsp;🎉🎉 Our paper "IntelliRadar: A Comprehensive Platform to Pinpoint Malicious Packages from Cyber Intelligence" was accepted by ICSE 2026! 
 - *2025.10*: &nbsp;🎉🎉 He successfully passed the Qualifying Examination (QE) and became a Ph.D. candidate at NTU!
 - *2025.09*: &nbsp;🎉🎉 Our paper "BinStruct: Binary Structure Recovery Combining Static Analysis and Semantics" was accepted by ICSE 2025! 
+- *2025.01*: &nbsp;🎉🎉 He was selected for the OpenAI Researcher Access Program with $8,000 USD in API credits!
 - *2024.09*: &nbsp;🎉🎉 Our preprint “PackageIntel: Leveraging Large Language Models for Automated Intelligence Extraction in Package Ecosystems” was available on Arxiv!
 - *2024.05*: &nbsp;🎉🎉 He was appointed as a member of the Datacon Expert Committee.
 - *2024.01*: &nbsp;🎉🎉 He joined the Nanyang Technological University as a Ph.D. student.
@@ -55,6 +56,12 @@ His research interests include supply chain security and open-source intelligenc
   - Yiran Zhang, Zhengzi Xu, Zhe Lang, Chengyue Liu, Yuqiang Sun, **Wenbo Guo**, Chengwei Liu, Weisong Sun, Yang Liu
   - 40th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2025
   - This paper proposes BinStruct, a novel framework that combines static analysis and semantics for binary structure recovery.
+
+- [Evolaris: A Roadmap to Self-Evolving Software Intelligence Management]()
+![](https://img.shields.io/badge/CCF-C-green?style=flat-square)
+  - Chengwei Liu, **Wenbo Guo**, Yuxin Zhang, Limin Wang, Sen Chen, Lei Bu, Yang Liu
+  - 29th International Conference on Engineering of Complex Computer Systems (ICECCS), 2025 (Position Paper)
+  - This paper presents Evolaris, a roadmap to self-evolving software intelligence management.
 
 - [SpearBot: Leveraging Large Language Models in a Generative-Critique Framework for Spear-Phishing Email Generation](https://www.sciencedirect.com/science/article/abs/pii/S1566253525002490)
 ![](https://img.shields.io/badge/Journal-Q1-red?style=flat-square)
