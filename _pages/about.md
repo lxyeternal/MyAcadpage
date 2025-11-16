@@ -29,7 +29,6 @@ His research interests include supply chain security and open-source intelligenc
 - *2025.10*: &nbsp;🎉🎉 He successfully passed the Qualifying Examination (QE) and became a Ph.D. candidate at NTU!
 - *2025.09*: &nbsp;🎉🎉 Our paper "BinStruct: Binary Structure Recovery Combining Static Analysis and Semantics" was accepted by ICSE 2025! 
 - *2025.01*: &nbsp;🎉🎉 He was selected for the OpenAI Researcher Access Program with $8,000 USD in API credits!
-- *2024.09*: &nbsp;🎉🎉 Our preprint “PackageIntel: Leveraging Large Language Models for Automated Intelligence Extraction in Package Ecosystems” was available on Arxiv!
 - *2024.05*: &nbsp;🎉🎉 He was appointed as a member of the Datacon Expert Committee.
 - *2024.01*: &nbsp;🎉🎉 He joined the Nanyang Technological University as a Ph.D. student.
 - *2023.07*: &nbsp;🎉🎉 Our paper "An Empirical Study of Malicious Code In PyPI Ecosystem" was accepted by ASE 2023! 
