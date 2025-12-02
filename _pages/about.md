@@ -25,6 +25,7 @@ His research interests include supply chain security and open-source intelligenc
 
 
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 Our team won the First Prize (Top 2) in the Prototype System Competition at CCF ChinaSoft!
 - *2025.10*: &nbsp;🎉🎉 Our paper "IntelliRadar: A Comprehensive Platform to Pinpoint Malicious Packages from Cyber Intelligence" was accepted by ICSE 2026! 
 - *2025.10*: &nbsp;🎉🎉 He successfully passed the Qualifying Examination (QE) and became a Ph.D. candidate at NTU!
 - *2025.09*: &nbsp;🎉🎉 Our paper "BinStruct: Binary Structure Recovery Combining Static Analysis and Semantics" was accepted by ICSE 2025! 
