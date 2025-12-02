@@ -46,19 +46,19 @@ His research interests include supply chain security and open-source intelligenc
 </div> -->
 
 - [IntelliRadar: A Comprehensive Platform to Pinpoint Malicious Packages from Cyber Intelligence](https://arxiv.org/abs/2409.15049)
-![](https://img.shields.io/badge/CCF-A-red?style=flat-square)
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
   - **Wenbo Guo**, Chengwei Liu, Limin Wang, Yiran Zhang, Jiahui Wu, Zhengzi Xu, Yang Liu
   - 48th International Conference on Software Engineering (ICSE), 2026
   - This paper presents IntelliRadar, a comprehensive platform designed to identify and pinpoint malicious packages using cyber intelligence.
 
 - [BinStruct: Binary Structure Recovery Combining Static Analysis and Semantics]()
-![](https://img.shields.io/badge/CCF-A-red?style=flat-square)
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
   - Yiran Zhang, Zhengzi Xu, Zhe Lang, Chengyue Liu, Yuqiang Sun, **Wenbo Guo**, Chengwei Liu, Weisong Sun, Yang Liu
   - 40th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2025
   - This paper proposes BinStruct, a novel framework that combines static analysis and semantics for binary structure recovery.
 
 - [Evolaris: A Roadmap to Self-Evolving Software Intelligence Management]()
-![](https://img.shields.io/badge/CCF-C-green?style=flat-square)
+![](https://img.shields.io/badge/CCF-C-green?style=flat-square)![](https://img.shields.io/badge/CORE-B-blue?style=flat-square)
   - Chengwei Liu, **Wenbo Guo**, Yuxin Zhang, Limin Wang, Sen Chen, Lei Bu, Yang Liu
   - 29th International Conference on Engineering of Complex Computer Systems (ICECCS), 2025 (Position Paper)
   - This paper presents Evolaris, a roadmap to self-evolving software intelligence management.
@@ -76,7 +76,7 @@ His research interests include supply chain security and open-source intelligenc
   - This paper is about detecting cross-site scripting attacks using the few-shot learning.
 
 - [An Empirical Study of Malicious Code In PyPI Ecosystem](https://arxiv.org/pdf/2309.11021) 
-![](https://img.shields.io/badge/CCF-A-red?style=flat-square) 
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
   - **Wenbo Guo**, Zhengzi Xu, Chengwei Liu, Cheng Huang, Yong Fang, Yang Liu
   - 2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:UeHWp8X0CEIC'></span></strong>
   - This paper is the empirical study paper for the malicious packages in the PyPI Package Manager.
@@ -89,7 +89,7 @@ His research interests include supply chain security and open-source intelligenc
   - This paper is about vulnerability detection based on the graph neural network. 
 
 - [Viopolicy-detector: An automated approach to detecting GDPR suspected compliance violations in websites](https://dl.acm.org/doi/abs/10.1145/3545948.3545952)
-![](https://img.shields.io/badge/CCF-B-blue?style=flat-square)
+![](https://img.shields.io/badge/CCF-B-blue?style=flat-square)![](https://img.shields.io/badge/CORE-A-red?style=flat-square)
   - Haoran Ou, Yong Fang, Yongyan Guo, **Wenbo Guo**, Cheng Huang
   - Proceedings of the 25th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2022) <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:u5HHmVD_uO8C'></span></strong>
   - This paper is about detecting privacy compliance using machine learning method. 
