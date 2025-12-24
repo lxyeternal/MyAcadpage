@@ -43,8 +43,11 @@ His research interests include supply chain security and open-source intelligenc
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
-<!-- </div>
-</div> -->
+- [Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking]()
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
+  - Yifan Huang, Xiaojun Jia, **Wenbo Guo**, Yuqiang Sun, Yihao Huang, Chong Wang, Yang Liu
+  - ACM International Conference on the Foundations of Software Engineering (FSE), 2026
+  - This paper proposes SPELL, a testing framework that evaluates security alignment weaknesses in LLM code generation through time-division sentence pairing strategies, achieving high attack success rates across major code models.
 
 - [IntelliRadar: A Comprehensive Platform to Pinpoint Malicious Packages from Cyber Intelligence](https://arxiv.org/abs/2409.15049)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
