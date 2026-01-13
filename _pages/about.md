@@ -25,6 +25,8 @@ His research interests include supply chain security and open-source intelligenc
 
 
 # 🔥 News
+- *2026.01*: &nbsp;🎉🎉 One paper was accepted by USENIX Security 2026!
+- *2026.01*: &nbsp;🎉🎉 One paper was accepted by WWW 2026!
 - *2025.12*: &nbsp;🎉🎉 One paper was accepted by FSE 2026!
 - *2025.12*: &nbsp;🎉🎉 Our team won the First Prize (Top 2) in the Prototype System Competition at CCF ChinaSoft (中国软件大会)!
 - *2025.10*: &nbsp;🎉🎉 Our paper "IntelliRadar: A Comprehensive Platform to Pinpoint Malicious Packages from Cyber Intelligence" was accepted by ICSE 2026! 
@@ -42,6 +44,18 @@ His research interests include supply chain security and open-source intelligenc
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
+
+- [Cutting the Gordian Knot: Detecting Malicious PyPI Packages via a Knowledge-Mining Framework]()
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
+  - **Wenbo Guo**, Chengwei Liu, Ming Kang, Yiran Zhang, Jiahui Wu, Zhengzi Xu, Vinay Sachidananda, Yang Liu
+  - USENIX Security Symposium (USENIX Security), 2026
+  - This paper proposes a knowledge-mining framework that transforms false positives from existing tools into knowledge to drive malicious package detection, discovering over 500 new malicious packages in the PyPI ecosystem.
+
+- [Bridging Expert Reasoning and LLM Detection: A Knowledge-Driven Framework for Malicious Packages]()
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
+  - **Wenbo Guo**, Shiwen Song, Jiaxun Guo, Zhengzi Xu, Chengwei Liu, Haoran Ou, Mengmeng Ge, Yang Liu
+  - The Web Conference (WWW), 2026
+  - This paper proposes a knowledge-driven framework that extracts and summarizes knowledge from historical expert malware analysis reports to drive LLM-based malicious package detection.
 
 - [Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking]()
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
