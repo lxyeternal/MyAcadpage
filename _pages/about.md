@@ -45,6 +45,11 @@ His research interests include supply chain security and open-source intelligenc
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
+- [Understanding NPM Malicious Package Detection: A Benchmark-Driven Empirical Analysis](https://arxiv.org/abs/2603.27549)
+  - **Wenbo Guo**, Zhongwen Chen, Zhengzi Xu, Chengwei Liu, Ming Kang, Shiwen Song, Chengyue Liu, Yijia Xu, Weisong Sun, Yang Liu
+  - arXiv preprint, 2026
+  - This paper presents a benchmark-driven empirical analysis for understanding NPM malicious package detection.
+
 - [Cutting the Gordian Knot: Detecting Malicious PyPI Packages via a Knowledge-Mining Framework]()
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
   - **Wenbo Guo**, Chengwei Liu, Ming Kang, Yiran Zhang, Jiahui Wu, Zhengzi Xu, Vinay Sachidananda, Yang Liu
