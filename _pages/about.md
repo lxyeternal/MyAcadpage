@@ -46,6 +46,7 @@ His research interests include supply chain security and open-source intelligenc
 <div class='paper-box-text' markdown="1"> -->
 
 - [Understanding NPM Malicious Package Detection: A Benchmark-Driven Empirical Analysis](https://arxiv.org/abs/2603.27549)
+![](https://img.shields.io/badge/arXiv-preprint-b31b1b?style=flat-square)
   - **Wenbo Guo**, Zhongwen Chen, Zhengzi Xu, Chengwei Liu, Ming Kang, Shiwen Song, Chengyue Liu, Yijia Xu, Weisong Sun, Yang Liu
   - arXiv preprint, 2026
   - This paper presents a benchmark-driven empirical analysis for understanding NPM malicious package detection.
