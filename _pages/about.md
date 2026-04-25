@@ -100,15 +100,6 @@ His research interests include supply chain security and open-source intelligenc
   - Information Fusion, Volume 122, 2025 <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:W7OEmFMy1HYC'></span></strong>
   - This paper proposes SpearBot, a novel framework that leverages large language models in a generative-critique approach for automated spear-phishing email generation.
 
-- [Few-shot graph classification on cross-site scripting attacks detection](https://www.sciencedirect.com/science/article/abs/pii/S0167404824000506) 
-![](https://img.shields.io/badge/CCF-B-blue?style=flat-square)
-  - Hongyu Pan, Yong Fang, **Wenbo Guo**, Yijia Xu, Changhui Wang
-  - Computers & Security, 2024 <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:Tyk-4Ss8FVUC'></span></strong>
-  - This paper is about detecting cross-site scripting attacks using the few-shot learning.
-
-<details markdown="1">
-<summary><b>Show more publications</b></summary>
-
 - [An Empirical Study of Malicious Code In PyPI Ecosystem](https://arxiv.org/pdf/2309.11021) 
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
   - **Wenbo Guo**, Zhengzi Xu, Chengwei Liu, Cheng Huang, Yong Fang, Yang Liu
@@ -121,6 +112,15 @@ His research interests include supply chain security and open-source intelligenc
   - **Wenbo Guo**, Yong Fang, Cheng Huang, Haoran Ou, Chun Lin, Yongyan Guo
   - Computers & Security, 2022 <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:9yKSN-GCB0IC'></span></strong>
   - This paper is about vulnerability detection based on the graph neural network. 
+
+<details markdown="1">
+<summary><b>Show more publications</b></summary>
+
+- [Few-shot graph classification on cross-site scripting attacks detection](https://www.sciencedirect.com/science/article/abs/pii/S0167404824000506) 
+![](https://img.shields.io/badge/CCF-B-blue?style=flat-square)
+  - Hongyu Pan, Yong Fang, **Wenbo Guo**, Yijia Xu, Changhui Wang
+  - Computers & Security, 2024 <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:Tyk-4Ss8FVUC'></span></strong>
+  - This paper is about detecting cross-site scripting attacks using the few-shot learning.
 
 - [Viopolicy-detector: An automated approach to detecting GDPR suspected compliance violations in websites](https://dl.acm.org/doi/abs/10.1145/3545948.3545952)
 ![](https://img.shields.io/badge/CCF-B-blue?style=flat-square)![](https://img.shields.io/badge/CORE-A-red?style=flat-square)
