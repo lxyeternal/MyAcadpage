@@ -164,9 +164,10 @@ His research interests include supply chain security and open-source intelligenc
 - *2021.12* Sichuan University, Dahua Scholarship.
 - *2019.10* Chinese Ministry of Education, National Inspirational Scholarship. 
 
-<!-- # 💬 Invited Talks
+# 💬 Invited Talks
+- *2026.04*, IntelliRadar: A Comprehensive Platform to Pinpoint Malicious Packages from Cyber Intelligence. ICSE 2026 @ Rio de Janeiro, Brazil
 - *2024.05*, Transforming Language Models into Smart Contract Audit Experts. GeekCon 2024 @ Singapore
-  - [Slides](assets/pdf/geekcon2024.pdf) -->
+  - [Slides](assets/pdf/geekcon2024.pdf)
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
