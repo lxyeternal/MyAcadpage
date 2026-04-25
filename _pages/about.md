@@ -106,6 +106,9 @@ His research interests include supply chain security and open-source intelligenc
   - Computers & Security, 2024 <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:eQOLeE2rZwMC'></span></strong>
   - This paper is about detecting cross-site scripting attacks using the few-shot learning.
 
+<details markdown="1">
+<summary><b>Show more publications</b></summary>
+
 - [An Empirical Study of Malicious Code In PyPI Ecosystem](https://arxiv.org/pdf/2309.11021) 
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
   - **Wenbo Guo**, Zhengzi Xu, Chengwei Liu, Cheng Huang, Yong Fang, Yang Liu
@@ -146,6 +149,8 @@ His research interests include supply chain security and open-source intelligenc
   - Liang Liu, **Wenbo Guo**, Yuwei Yang, Huaiyu Guo
   - Chinese Journal of Network and Information Security, 2019 <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:IjCSPb-OGe4C'></span></strong>
   - This paper is about a privacy protection scheme based on QR code segmentation encryption.
+
+</details>
 
 
 # 📖 Educations
