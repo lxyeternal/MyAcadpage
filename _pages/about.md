@@ -58,19 +58,19 @@ His research interests include supply chain security and open-source intelligenc
   - arXiv preprint, 2026
   - This paper presents a benchmark-driven empirical analysis for understanding NPM malicious package detection.
 
-- [Cutting the Gordian Knot: Detecting Malicious PyPI Packages via a Knowledge-Mining Framework]()
+- [Cutting the Gordian Knot: Detecting Malicious PyPI Packages via a Knowledge-Mining Framework](https://arxiv.org/abs/2601.16463)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
   - **Wenbo Guo**, Chengwei Liu, Ming Kang, Yiran Zhang, Jiahui Wu, Zhengzi Xu, Vinay Sachidananda, Yang Liu
   - USENIX Security Symposium (USENIX Security), 2026
   - This paper proposes a knowledge-mining framework that transforms false positives from existing tools into knowledge to drive malicious package detection, discovering over 500 new malicious packages in the PyPI ecosystem.
 
-- [Bridging Expert Reasoning and LLM Detection: A Knowledge-Driven Framework for Malicious Packages]()
+- [Bridging Expert Reasoning and LLM Detection: A Knowledge-Driven Framework for Malicious Packages](https://arxiv.org/abs/2601.16458)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
   - **Wenbo Guo**, Shiwen Song, Jiaxun Guo, Zhengzi Xu, Chengwei Liu, Haoran Ou, Mengmeng Ge, Yang Liu
   - The Web Conference (WWW), 2026
   - This paper proposes a knowledge-driven framework that extracts and summarizes knowledge from historical expert malware analysis reports to drive LLM-based malicious package detection.
 
-- [Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking]()
+- [Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking](https://arxiv.org/abs/2512.21236)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
   - Yifan Huang, Xiaojun Jia, **Wenbo Guo**, Yuqiang Sun, Yihao Huang, Chong Wang, Yang Liu
   - ACM International Conference on the Foundations of Software Engineering (FSE), 2026
@@ -82,13 +82,13 @@ His research interests include supply chain security and open-source intelligenc
   - 48th International Conference on Software Engineering (ICSE), 2026
   - This paper presents IntelliRadar, a comprehensive platform designed to identify and pinpoint malicious packages using cyber intelligence.
 
-- [BinStruct: Binary Structure Recovery Combining Static Analysis and Semantics]()
+- [BinStruct: Binary Structure Recovery Combining Static Analysis and Semantics](https://ieeexplore.ieee.org/document/11334428/)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
   - Yiran Zhang, Zhengzi Xu, Zhe Lang, Chengyue Liu, Yuqiang Sun, **Wenbo Guo**, Chengwei Liu, Weisong Sun, Yang Liu
   - 40th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2025
   - This paper proposes BinStruct, a novel framework that combines static analysis and semantics for binary structure recovery.
 
-- [Evolaris: A Roadmap to Self-Evolving Software Intelligence Management]()
+- [Evolaris: A Roadmap to Self-Evolving Software Intelligence Management](https://arxiv.org/abs/2510.04689)
 ![](https://img.shields.io/badge/CCF-C-green?style=flat-square)![](https://img.shields.io/badge/CORE-B-blue?style=flat-square)
   - Chengwei Liu, **Wenbo Guo**, Yuxin Zhang, Limin Wang, Sen Chen, Lei Bu, Yang Liu
   - 29th International Conference on Engineering of Complex Computer Systems (ICECCS), 2025 (Position Paper)
@@ -97,7 +97,7 @@ His research interests include supply chain security and open-source intelligenc
 - [SpearBot: Leveraging Large Language Models in a Generative-Critique Framework for Spear-Phishing Email Generation](https://www.sciencedirect.com/science/article/abs/pii/S1566253525002490)
 ![](https://img.shields.io/badge/Journal-Q1-red?style=flat-square)
   - Qinglin Qi, Yun Luo, Yijia Xu, **Wenbo Guo**, Yong Fang
-  - Information Fusion, Volume 122, 2025 <strong><span class='show_paper_citations' data='你的Google Scholar ID:citation key'></span></strong>
+  - Information Fusion, Volume 122, 2025 <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:W7OEmFMy1HYC'></span></strong>
   - This paper proposes SpearBot, a novel framework that leverages large language models in a generative-critique approach for automated spear-phishing email generation.
 
 - [Few-shot graph classification on cross-site scripting attacks detection](https://www.sciencedirect.com/science/article/abs/pii/S0167404824000506) 
@@ -154,7 +154,7 @@ His research interests include supply chain security and open-source intelligenc
 
 
 # 📖 Educations
-- *2024.01 - Now*, Ph.D. Student at School of Computer Science and Engineering, Nanyang Technological University, Singapore.
+- *2024.01 - Now*, Ph.D. Student at College of Computing and Data Science, Nanyang Technological University, Singapore.
 - *2020.09 - 2023.06*, Postgraduate student at School of Cyber Science and Engineering, Sichuan University, Chengdu, Sichuan, P.R.C. 
 - *2016.09 - 2020.06*, Undergraduate student at School of Cyber Science and Engineering, Sichuan University, Chengdu, Sichuan, P.R.C.
  
