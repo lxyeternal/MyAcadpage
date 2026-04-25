@@ -25,6 +25,7 @@ His research interests include supply chain security and open-source intelligenc
 
 
 # 🔥 News
+- *2026.04*: &nbsp;🎉🎉 One paper was accepted by ISSTA 2026!
 - *2026.01*: &nbsp;🎉🎉 One paper was accepted by USENIX Security 2026!
 - *2026.01*: &nbsp;🎉🎉 One paper was accepted by WWW 2026!
 - *2025.12*: &nbsp;🎉🎉 One paper was accepted by FSE 2026!
@@ -62,6 +63,12 @@ His research interests include supply chain security and open-source intelligenc
   - **Wenbo Guo**, Shiwen Song, Jiaxun Guo, Zhengzi Xu, Chengwei Liu, Haoran Ou, Mengmeng Ge, Yang Liu
   - The Web Conference (WWW), 2026
   - This paper proposes a knowledge-driven framework that extracts and summarizes knowledge from historical expert malware analysis reports to drive LLM-based malicious package detection.
+
+- [Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution]()
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
+  - Shiwen Song, Yiheng Xiong, **Wenbo Guo**, Manqi Sun, Jiaolong Kong, Xiaofei Xie
+  - ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2026
+  - This paper characterizes obsolete Android GUI tests caused by UI evolution and proposes an automated approach to repair them.
 
 - [Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking]()
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
