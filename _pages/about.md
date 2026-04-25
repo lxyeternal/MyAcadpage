@@ -46,6 +46,12 @@ His research interests include supply chain security and open-source intelligenc
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
 
+- [Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution]()
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
+  - Shiwen Song, Yiheng Xiong, **Wenbo Guo**, Manqi Sun, Jiaolong Kong, Xiaofei Xie
+  - ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2026
+  - This paper characterizes obsolete Android GUI tests caused by UI evolution and proposes an automated approach to repair them.
+
 - [Understanding NPM Malicious Package Detection: A Benchmark-Driven Empirical Analysis](https://arxiv.org/abs/2603.27549)
 ![](https://img.shields.io/badge/arXiv-preprint-b31b1b?style=flat-square)
   - **Wenbo Guo**, Zhongwen Chen, Zhengzi Xu, Chengwei Liu, Ming Kang, Shiwen Song, Chengyue Liu, Yijia Xu, Weisong Sun, Yang Liu
@@ -63,12 +69,6 @@ His research interests include supply chain security and open-source intelligenc
   - **Wenbo Guo**, Shiwen Song, Jiaxun Guo, Zhengzi Xu, Chengwei Liu, Haoran Ou, Mengmeng Ge, Yang Liu
   - The Web Conference (WWW), 2026
   - This paper proposes a knowledge-driven framework that extracts and summarizes knowledge from historical expert malware analysis reports to drive LLM-based malicious package detection.
-
-- [Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution]()
-![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
-  - Shiwen Song, Yiheng Xiong, **Wenbo Guo**, Manqi Sun, Jiaolong Kong, Xiaofei Xie
-  - ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2026
-  - This paper characterizes obsolete Android GUI tests caused by UI evolution and proposes an automated approach to repair them.
 
 - [Casting a SPELL: Sentence Pairing Exploration for LLM Limitation-breaking]()
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
