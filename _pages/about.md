@@ -174,7 +174,9 @@ His research interests include supply chain security and open-source intelligenc
 # 📫 Services
 
 - Reviewer: IEEE Transactions on Dependable and Secure Computing (TDSC) (2025)
-- Reviewer: Transactions on Information Forensics & Security (TIFS) (2025)
+- Reviewer: Transactions on Information Forensics & Security (TIFS) (2025, 2026)
+- Reviewer: Expert Systems with Applications (2026)
+- Reviewer: ACM International Conference on AI-powered Software (AIware) (2026)
 - Reviewer: Journal of Intelligent & Fuzzy Systems (2022)
 
 
