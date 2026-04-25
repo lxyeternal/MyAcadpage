@@ -103,7 +103,7 @@ His research interests include supply chain security and open-source intelligenc
 - [Few-shot graph classification on cross-site scripting attacks detection](https://www.sciencedirect.com/science/article/abs/pii/S0167404824000506) 
 ![](https://img.shields.io/badge/CCF-B-blue?style=flat-square)
   - Hongyu Pan, Yong Fang, **Wenbo Guo**, Yijia Xu, Changhui Wang
-  - Computers & Security, 2024 <strong><span class='show_paper_citations' data='KAWDTzsAAAAJ:eQOLeE2rZwMC'></span></strong>
+  - Computers & Security, 2024 <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:Tyk-4Ss8FVUC'></span></strong>
   - This paper is about detecting cross-site scripting attacks using the few-shot learning.
 
 <details markdown="1">
