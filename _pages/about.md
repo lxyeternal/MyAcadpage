@@ -25,10 +25,17 @@ His research interests include supply chain security and open-source intelligenc
 
 
 # 🔥 News
+- *2026.06*: &nbsp;🎉🎉 Our security platform [Maliverse](https://www.maliverse.org/) is now online, integrating our IntelliRadar, PyGuard, and SkillGuard tools into one supply-chain & AI-agent security platform!
+- *2026.06*: &nbsp;🎉🎉 Our project was approved for OpenAI Startup Credits ($2,500 USD)!
+- *2026.06*: &nbsp;🎉🎉 He was appointed as a member of the Artifact Evaluation Committee (AEC) for NDSS 2027 and ISSTA 2027!
 - *2026.04*: &nbsp;🎉🎉 One paper was accepted by ISSTA 2026!
 - *2026.01*: &nbsp;🎉🎉 One paper was accepted by USENIX Security 2026!
 - *2026.01*: &nbsp;🎉🎉 One paper was accepted by WWW 2026!
 - *2025.12*: &nbsp;🎉🎉 One paper was accepted by FSE 2026!
+
+<details markdown="1">
+<summary><i>Show more news</i></summary>
+
 - *2025.12*: &nbsp;🎉🎉 Our team won the First Prize (Top 2) in the Prototype System Competition at CCF ChinaSoft (中国软件大会)!
 - *2025.10*: &nbsp;🎉🎉 Our paper "IntelliRadar" was accepted by ICSE 2026! 
 - *2025.10*: &nbsp;🎉🎉 He successfully passed the Qualifying Examination (QE) and became a Ph.D. candidate at NTU!
@@ -39,6 +46,23 @@ His research interests include supply chain security and open-source intelligenc
 - *2023.07*: &nbsp;🎉🎉 Our paper "An Empirical Study of Malicious Code In PyPI Ecosystem" was accepted by ASE 2023! 
 - *2023.06*: &nbsp;🎉🎉 He obtained the master's degree from SCU.
 - *2023.03*: &nbsp;🎉🎉 He was awarded the title of Outstanding Graduate of Sichuan Province.
+
+</details>
+
+
+# 📄 Preprints
+
+- [MalSkillBench: A Runtime-Verified Benchmark of Malicious Agent Skills](https://arxiv.org/abs/2606.07131)
+![](https://img.shields.io/badge/arXiv-preprint-b31b1b?style=flat-square)
+  - **Wenbo Guo**, Wei Zeng, Chengwei Liu, Xiaojun Jia, Yijia Xu, Lei Tang, Yong Fang, Yang Liu
+  - arXiv preprint, 2026
+  - This paper presents MalSkillBench, the first runtime-verified benchmark of malicious agent skills—3,944 malicious skills labeled along a three-dimensional taxonomy—showing that detecting malicious skills requires reasoning jointly over task intent, code, and instructions.
+
+- [Understanding NPM Malicious Package Detection: A Benchmark-Driven Empirical Analysis](https://arxiv.org/abs/2603.27549)
+![](https://img.shields.io/badge/arXiv-preprint-b31b1b?style=flat-square)
+  - **Wenbo Guo**, Zhongwen Chen, Zhengzi Xu, Chengwei Liu, Ming Kang, Shiwen Song, Chengyue Liu, Yijia Xu, Weisong Sun, Yang Liu
+  - arXiv preprint, 2026
+  - This paper presents a benchmark-driven empirical analysis for understanding NPM malicious package detection.
 
 
 # 📝 Publications 
@@ -51,12 +75,6 @@ His research interests include supply chain security and open-source intelligenc
   - Shiwen Song, Yiheng Xiong, **Wenbo Guo**, Manqi Sun, Jiaolong Kong, Xiaofei Xie
   - ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2026
   - This paper characterizes obsolete Android GUI tests caused by UI evolution and proposes an automated approach to repair them.
-
-- [Understanding NPM Malicious Package Detection: A Benchmark-Driven Empirical Analysis](https://arxiv.org/abs/2603.27549)
-![](https://img.shields.io/badge/arXiv-preprint-b31b1b?style=flat-square)
-  - **Wenbo Guo**, Zhongwen Chen, Zhengzi Xu, Chengwei Liu, Ming Kang, Shiwen Song, Chengyue Liu, Yijia Xu, Weisong Sun, Yang Liu
-  - arXiv preprint, 2026
-  - This paper presents a benchmark-driven empirical analysis for understanding NPM malicious package detection.
 
 - [Cutting the Gordian Knot: Detecting Malicious PyPI Packages via a Knowledge-Mining Framework](https://arxiv.org/abs/2601.16463)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
@@ -153,6 +171,14 @@ His research interests include supply chain security and open-source intelligenc
 </details>
 
 
+# 🌐 Platform
+
+- [**Maliverse**](https://www.maliverse.org/) is now online — a unified software supply chain & AI agent security platform that brings together three of our research tools:
+  - **IntelliRadar**: pinpointing malicious packages from cyber threat intelligence (ICSE 2026).
+  - **PyGuard**: knowledge-driven detection of malicious PyPI packages (USENIX Security 2026 & WWW 2026).
+  - **SkillGuard**: detection of malicious AI agent skills (MalSkillBench).
+
+
 # 📖 Educations
 - *2024.01 - Now*, Ph.D. Student at College of Computing and Data Science, Nanyang Technological University, Singapore.
 - *2020.09 - 2023.06*, Postgraduate student at School of Cyber Science and Engineering, Sichuan University, Chengdu, Sichuan, P.R.C. 
@@ -172,6 +198,8 @@ His research interests include supply chain security and open-source intelligenc
 
 # 📫 Services
 
+- Artifact Evaluation Committee (AEC): NDSS 2027
+- Artifact Evaluation Committee (AEC): ISSTA 2027
 - Reviewer: IEEE Transactions on Dependable and Secure Computing (TDSC) (2025)
 - Reviewer: Transactions on Information Forensics & Security (TIFS) (2025, 2026)
 - Reviewer: Expert Systems with Applications (2026)
