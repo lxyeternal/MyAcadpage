@@ -186,6 +186,9 @@ His research interests include supply chain security and open-source intelligenc
  
 
 # 🎖 Honors and Awards
+- *2026.06* OpenAI, Startup Credits ($2,500 USD).
+- *2025.12* CCF ChinaSoft (中国软件大会), First Prize (Top 2), Prototype System Competition.
+- *2025.01* OpenAI, Researcher Access Program ($8,000 USD in API credits).
 - *2023.06* Sichuan Province Government, Excellent Graduates.
 - *2021.12* Sichuan University, Dahua Scholarship.
 - *2019.10* Chinese Ministry of Education, National Inspirational Scholarship. 
