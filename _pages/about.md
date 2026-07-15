@@ -52,11 +52,12 @@ His research interests include supply chain security and open-source intelligenc
 
 # 📄 Preprints
 
+> In the lists below, **bold** marks my name; <sup>†</sup> denotes the corresponding author; <sup>\*</sup> denotes equal contribution (co-first author).
+
 - [Skills That Don't Exist: A Large-Scale Study of Hallucinated Skill Recommendation in LLM Agents](https://arxiv.org/abs/2607.12340)
 ![](https://img.shields.io/badge/arXiv-preprint-b31b1b?style=flat-square)
   - Weifeng Yuan, **Wenbo Guo**<sup>†</sup>, Feng Dong, Haoyu Wang, Yang Liu
   - arXiv preprint, 2026
-  - <sup>†</sup> Corresponding author.
   - This paper presents a large-scale study of hallucinated skill recommendation in LLM agents, characterizing when and why agents recommend skills that do not exist.
 
 - [MalSkillBench: A Runtime-Verified Benchmark of Malicious Agent Skills](https://arxiv.org/abs/2606.07131)
