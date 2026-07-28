@@ -81,7 +81,7 @@ His research interests include supply chain security and open-source intelligenc
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
   - Zhuoran Tan, **Wenbo Guo**, Jiewen Luo, Taylor Brierley, Jeremy Singer, Christos Anagnostopoulos
   - ACM Conference on Computer and Communications Security (CCS), 2026
-  - This paper presents SynthChain, a multi-source runtime dataset with chain-level ground truth for software supply chain attacks, and empirically studies their observability limits—showing that no single telemetry source is chain-complete, while fusing complementary sources substantially improves attack-chain reconstruction.
+  - This paper presents SynthChain, a multi-source runtime dataset with chain-level ground truth, and empirically studies the observability limits of software supply chain attacks.
 
 - [Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution]()
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
