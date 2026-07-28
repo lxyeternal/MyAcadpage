@@ -25,6 +25,7 @@ His research interests include supply chain security and open-source intelligenc
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 One paper was accepted by ACM CCS 2026 (Cycle B)!
 - *2026.06*: &nbsp;🎉🎉 Our security platform [Maliverse](https://www.maliverse.org/) is now online, integrating our IntelliRadar, PyGuard, and SkillGuard tools into one supply-chain & AI-agent security platform!
 - *2026.06*: &nbsp;🎉🎉 Our project was approved for OpenAI Startup Credits ($2,500 USD)!
 - *2026.06*: &nbsp;🎉🎉 He was appointed as a member of the Artifact Evaluation Committee (AEC) for NDSS 2027 and ISSTA 2027!
@@ -77,6 +78,12 @@ His research interests include supply chain security and open-source intelligenc
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
+
+- [An Empirical Study of Observability Limits in Advanced Software Supply Chain Attacks](https://arxiv.org/abs/2603.16694)
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
+  - Zhuoran Tan, **Wenbo Guo**, Jiewen Luo, Taylor Brierley, Jeremy Singer, Christos Anagnostopoulos
+  - ACM Conference on Computer and Communications Security (CCS), 2026
+  - This paper presents SynthChain, a multi-source runtime dataset with chain-level ground truth for software supply chain attacks, and empirically studies their observability limits—showing that no single telemetry source is chain-complete, while fusing complementary sources substantially improves attack-chain reconstruction.
 
 - [Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution]()
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
