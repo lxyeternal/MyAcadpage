@@ -25,6 +25,7 @@ His research interests include supply chain security and open-source intelligenc
 
 
 # 🔥 News
+- *2026.07*: &nbsp;🎉🎉 Two papers were accepted by ASE 2026!
 - *2026.07*: &nbsp;🎉🎉 One paper was accepted by ACM CCS 2026 (Cycle B)!
 - *2026.06*: &nbsp;🎉🎉 Our security platform [Maliverse](https://www.maliverse.org/) is now online, integrating our IntelliRadar, PyGuard, and SkillGuard tools into one supply-chain & AI-agent security platform!
 - *2026.06*: &nbsp;🎉🎉 Our project was approved for OpenAI Startup Credits ($2,500 USD)!
@@ -67,17 +68,23 @@ His research interests include supply chain security and open-source intelligenc
   - arXiv preprint, 2026
   - This paper presents MalSkillBench, the first runtime-verified benchmark of malicious agent skills—3,944 malicious skills labeled along a three-dimensional taxonomy—showing that detecting malicious skills requires reasoning jointly over task intent, code, and instructions.
 
-- [Understanding NPM Malicious Package Detection: A Benchmark-Driven Empirical Analysis](https://arxiv.org/abs/2603.27549)
-![](https://img.shields.io/badge/arXiv-preprint-b31b1b?style=flat-square)
-  - **Wenbo Guo**, Zhongwen Chen, Zhengzi Xu, Chengwei Liu, Ming Kang, Shiwen Song, Chengyue Liu, Yijia Xu, Weisong Sun, Yang Liu
-  - arXiv preprint, 2026
-  - This paper presents a benchmark-driven empirical analysis for understanding NPM malicious package detection.
-
 
 # 📝 Publications 
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
+
+- [How Effective Are NPM Malicious Package Detectors? A Large-Scale Empirical Study](https://arxiv.org/abs/2603.27549)
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
+  - **Wenbo Guo**, Zhongwen Chen, Zhengzi Xu, Chengwei Liu, Ming Kang, Shiwen Song, Chengyue Liu, Yijia Xu, Weisong Sun, Yang Liu
+  - 41st IEEE/ACM International Conference on Automated Software Engineering (ASE), 2026
+  - This paper presents the first large-scale empirical study of NPM malicious package detection, evaluating 8 tools with 13 variants on a unified benchmark of 6,420 malicious and 7,288 benign packages, and inspecting each tool's source code to explain why it succeeds or fails.
+
+- [Latent Reuse in Agent Skills: Multi-Modal Clone Detection at Ecosystem Scale](https://arxiv.org/abs/2603.22447)
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
+  - Jiaying Zhu, Lyuye Zhang, **Wenbo Guo**, Yang Liu
+  - 41st IEEE/ACM International Conference on Automated Software Engineering (ASE), 2026
+  - This paper presents SkillClone, the first multi-modal clone detection approach for agent skills, which recovers hidden reuse links across YAML metadata, natural language instructions, and embedded code at ecosystem scale.
 
 - [An Empirical Study of Observability Limits in Advanced Software Supply Chain Attacks](https://arxiv.org/abs/2603.16694)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
