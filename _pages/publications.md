@@ -7,7 +7,7 @@ author_profile: true
 
 <span class='anchor' id='publications'></span>
 
-A complete list of my publications and preprints. For a shorter, curated set, see [Selected Publications](/#-selected-publications) on the homepage.
+A complete list of my publications and preprints. For a shorter, curated set, see <a href="/#-selected-publications" target="_self">Selected Publications</a> on the homepage.
 
 > <sup>\*</sup> equal contribution (co-first author); <sup>†</sup> corresponding author.
 

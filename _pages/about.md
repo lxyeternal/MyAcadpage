@@ -71,7 +71,7 @@ His research interests include supply chain security and open-source intelligenc
 
 # 📝 Selected Publications
 
-> Papers on which I am the first, second, or third author. See the [full list of publications](/publications.html) for everything else.
+> Papers on which I am the first, second, or third author. See the <a href="/publications.html" target="_self">full list of publications</a> for everything else.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
@@ -159,7 +159,7 @@ His research interests include supply chain security and open-source intelligenc
   - International Journal of Distributed Sensor Networks, 2021 <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:d1gkVwhDpl0C'></span></strong>
   - This paper is about detecting key hackers in the underground forums.
 
-<p><a href="/publications.html"><b>See all publications →</b></a></p>
+<p><a href="/publications.html" target="_self"><b>See all publications →</b></a></p>
 
 
 # 🌐 Platform
