@@ -71,7 +71,7 @@ His research interests include supply chain security and open-source intelligenc
 
 # 📝 Selected Publications
 
-> Papers on which I am the first, second, or third author. See the <a href="/publications.html" target="_self">full list of publications</a> for everything else.
+> A selection of my work. See the <a href="/publications.html" target="_self">full list of publications</a> for everything else.
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
@@ -93,12 +93,6 @@ His research interests include supply chain security and open-source intelligenc
   - Zhuoran Tan, **Wenbo Guo**, Jiewen Luo, Taylor Brierley, Jeremy Singer, Christos Anagnostopoulos
   - ACM Conference on Computer and Communications Security (CCS), 2026
   - This paper presents SynthChain, a multi-source runtime dataset with chain-level ground truth, and empirically studies the observability limits of software supply chain attacks.
-
-- [Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution]()
-![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
-  - Shiwen Song, Yiheng Xiong, **Wenbo Guo**, Manqi Sun, Jiaolong Kong, Xiaofei Xie
-  - ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2026
-  - This paper characterizes obsolete Android GUI tests caused by UI evolution and proposes an automated approach to repair them.
 
 - [Cutting the Gordian Knot: Detecting Malicious PyPI Packages via a Knowledge-Mining Framework](https://arxiv.org/abs/2601.16463)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
@@ -130,12 +124,6 @@ His research interests include supply chain security and open-source intelligenc
   - 29th International Conference on Engineering of Complex Computer Systems (ICECCS), 2025 (Position Paper)
   - This paper presents Evolaris, a roadmap to self-evolving software intelligence management.
 
-- [Few-shot graph classification on cross-site scripting attacks detection](https://www.sciencedirect.com/science/article/abs/pii/S0167404824000506)
-![](https://img.shields.io/badge/CCF-B-blue?style=flat-square)
-  - Hongyu Pan, Yong Fang, **Wenbo Guo**, Yijia Xu, Changhui Wang
-  - Computers & Security, 2024 <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:Tyk-4Ss8FVUC'></span></strong>
-  - This paper is about detecting cross-site scripting attacks using the few-shot learning.
-
 - [An Empirical Study of Malicious Code In PyPI Ecosystem](https://arxiv.org/pdf/2309.11021) 
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
   - **Wenbo Guo**, Zhengzi Xu, Chengwei Liu, Cheng Huang, Yong Fang, Yang Liu
@@ -148,16 +136,6 @@ His research interests include supply chain security and open-source intelligenc
   - **Wenbo Guo**, Yong Fang, Cheng Huang, Haoran Ou, Chun Lin, Yongyan Guo
   - Computers & Security, 2022 <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:9yKSN-GCB0IC'></span></strong>
   - This paper is about vulnerability detection based on the graph neural network. 
-
-- [Intelligent mining vulnerabilities in python code snippets](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs211011) 
-  - **Wenbo Guo**, Cheng Huang, Weina Niu, Yong Fang
-  - Journal of Intelligent & Fuzzy Systems, 2021 <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:u-x6o8ySG0sC'></span></strong>
-  - This paper is about detecting python vulnerability using the machine learning method. 
-
-- [HackerRank: Identifying key hackers in underground forums](https://journals.sagepub.com/doi/full/10.1177/15501477211015145) 
-  - Cheng Huang, Yongyan Guo, **Wenbo Guo**, Ying Li
-  - International Journal of Distributed Sensor Networks, 2021 <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:d1gkVwhDpl0C'></span></strong>
-  - This paper is about detecting key hackers in the underground forums.
 
 <p><a href="/publications.html" target="_self"><b>See all publications →</b></a></p>
 
