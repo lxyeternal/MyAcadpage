@@ -1,60 +1,18 @@
 ---
-permalink: /
-title: "Homepage"
+permalink: /publications.html
+title: "Publications"
 excerpt: ""
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+<span class='anchor' id='publications'></span>
 
-<span class='anchor' id='about-me'></span>
+A complete list of my publications and preprints. For a shorter, curated set, see [Selected Publications](/#-selected-publications) on the homepage.
 
-Wenbo Guo (郭文博) is a third-year Ph.D. candidate in the School of Computer and Data Science at Nanyang Technological University (NTU), advised by [Prof. Yang Liu](https://personal.ntu.edu.sg/yangliu/).
-
-In 2020, he graduated with honors and earned his Bachelor's degree from Sichuan University. He was subsequently offered direct admission to graduate school at the School of Cyber Security at Sichuan University, where he continued his academic journey towards a Master's degree. During this stage, he was co-advised by Prof. Fang Yong and [Prof. Cheng Huang](https://chenghuang.org/).
-
-His research interests include supply chain security and open-source intelligence.
-
-
-# 🔥 News
-- *2026.07*: &nbsp;🎉🎉 Two papers were accepted by ASE 2026!
-- *2026.07*: &nbsp;🎉🎉 One paper was accepted by ACM CCS 2026 (Cycle B)!
-- *2026.06*: &nbsp;🎉🎉 Our security platform [Maliverse](https://www.maliverse.org/) is now online, integrating our IntelliRadar, PyGuard, and SkillGuard tools into one supply-chain & AI-agent security platform!
-- *2026.06*: &nbsp;🎉🎉 Our project was approved for OpenAI Startup Credits ($2,500 USD)!
-- *2026.06*: &nbsp;🎉🎉 He was appointed as a member of the Artifact Evaluation Committee (AEC) for NDSS 2027 and ISSTA 2027!
-- *2026.04*: &nbsp;🎉🎉 One paper was accepted by ISSTA 2026!
-- *2026.01*: &nbsp;🎉🎉 One paper was accepted by USENIX Security 2026!
-- *2026.01*: &nbsp;🎉🎉 One paper was accepted by WWW 2026!
-- *2025.12*: &nbsp;🎉🎉 One paper was accepted by FSE 2026!
-
-<details markdown="1">
-<summary><i>Show more news</i></summary>
-
-- *2025.12*: &nbsp;🎉🎉 Our team won the First Prize (Top 2) in the Prototype System Competition at CCF ChinaSoft (中国软件大会)!
-- *2025.10*: &nbsp;🎉🎉 Our paper "IntelliRadar" was accepted by ICSE 2026! 
-- *2025.10*: &nbsp;🎉🎉 He successfully passed the Qualifying Examination (QE) and became a Ph.D. candidate at NTU!
-- *2025.09*: &nbsp;🎉🎉 Our paper "BinStruct: Binary Structure Recovery Combining Static Analysis and Semantics" was accepted by ICSE 2025! 
-- *2025.01*: &nbsp;🎉🎉 He was selected for the OpenAI Researcher Access Program with $8,000 USD in API credits!
-- *2024.05*: &nbsp;🎉🎉 He was appointed as a member of the Datacon Expert Committee.
-- *2024.01*: &nbsp;🎉🎉 He joined the Nanyang Technological University as a Ph.D. student.
-- *2023.07*: &nbsp;🎉🎉 Our paper "An Empirical Study of Malicious Code In PyPI Ecosystem" was accepted by ASE 2023! 
-- *2023.06*: &nbsp;🎉🎉 He obtained the master's degree from SCU.
-- *2023.03*: &nbsp;🎉🎉 He was awarded the title of Outstanding Graduate of Sichuan Province.
-
-</details>
+> <sup>\*</sup> equal contribution (co-first author); <sup>†</sup> corresponding author.
 
 
 # 📄 Preprints
-
-> <sup>\*</sup> equal contribution (co-first author); <sup>†</sup> corresponding author.
 
 - [Skills That Don't Exist: A Large-Scale Study of Hallucinated Skill Recommendation in LLM Agents](https://arxiv.org/abs/2607.12340)
 ![](https://img.shields.io/badge/arXiv-preprint-b31b1b?style=flat-square)
@@ -69,12 +27,7 @@ His research interests include supply chain security and open-source intelligenc
   - This paper presents MalSkillBench, the first runtime-verified benchmark of malicious agent skills—3,944 malicious skills labeled along a three-dimensional taxonomy—showing that detecting malicious skills requires reasoning jointly over task intent, code, and instructions.
 
 
-# 📝 Selected Publications
-
-> Papers on which I am the first, second, or third author. See the [full list of publications](/publications.html) for everything else.
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1"> -->
+# 📝 Publications
 
 - [How Effective Are NPM Malicious Package Detectors? A Large-Scale Empirical Study](https://arxiv.org/abs/2603.27549)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
@@ -124,11 +77,23 @@ His research interests include supply chain security and open-source intelligenc
   - 48th International Conference on Software Engineering (ICSE), 2026
   - This paper presents IntelliRadar, a comprehensive platform designed to identify and pinpoint malicious packages using cyber intelligence.
 
+- [BinStruct: Binary Structure Recovery Combining Static Analysis and Semantics](https://ieeexplore.ieee.org/document/11334428/)
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
+  - Yiran Zhang, Zhengzi Xu, Zhe Lang, Chengyue Liu, Yuqiang Sun, **Wenbo Guo**, Chengwei Liu, Weisong Sun, Yang Liu
+  - 40th IEEE/ACM International Conference on Automated Software Engineering (ASE), 2025
+  - This paper proposes BinStruct, a novel framework that combines static analysis and semantics for binary structure recovery.
+
 - [Evolaris: A Roadmap to Self-Evolving Software Intelligence Management](https://arxiv.org/abs/2510.04689)
 ![](https://img.shields.io/badge/CCF-C-green?style=flat-square)![](https://img.shields.io/badge/CORE-B-blue?style=flat-square)
   - Chengwei Liu, **Wenbo Guo**, Yuxin Zhang, Limin Wang, Sen Chen, Lei Bu, Yang Liu
   - 29th International Conference on Engineering of Complex Computer Systems (ICECCS), 2025 (Position Paper)
   - This paper presents Evolaris, a roadmap to self-evolving software intelligence management.
+
+- [SpearBot: Leveraging Large Language Models in a Generative-Critique Framework for Spear-Phishing Email Generation](https://www.sciencedirect.com/science/article/abs/pii/S1566253525002490)
+![](https://img.shields.io/badge/Journal-Q1-red?style=flat-square)
+  - Qinglin Qi, Yun Luo, Yijia Xu, **Wenbo Guo**, Yong Fang
+  - Information Fusion, Volume 122, 2025 <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:W7OEmFMy1HYC'></span></strong>
+  - This paper proposes SpearBot, a novel framework that leverages large language models in a generative-critique approach for automated spear-phishing email generation.
 
 - [Few-shot graph classification on cross-site scripting attacks detection](https://www.sciencedirect.com/science/article/abs/pii/S0167404824000506)
 ![](https://img.shields.io/badge/CCF-B-blue?style=flat-square)
@@ -136,71 +101,37 @@ His research interests include supply chain security and open-source intelligenc
   - Computers & Security, 2024 <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:Tyk-4Ss8FVUC'></span></strong>
   - This paper is about detecting cross-site scripting attacks using the few-shot learning.
 
-- [An Empirical Study of Malicious Code In PyPI Ecosystem](https://arxiv.org/pdf/2309.11021) 
+- [An Empirical Study of Malicious Code In PyPI Ecosystem](https://arxiv.org/pdf/2309.11021)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square) ![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
   - **Wenbo Guo**, Zhengzi Xu, Chengwei Liu, Cheng Huang, Yong Fang, Yang Liu
   - 2023 38th IEEE/ACM International Conference on Automated Software Engineering (ASE) <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:UeHWp8X0CEIC'></span></strong>
   - This paper is the empirical study paper for the malicious packages in the PyPI Package Manager.
   - We constructed the largest PyPI malicious package dataset and open-sourced the dataset at [here](https://github.com/lxyeternal/pypi_malregistry)
 
-- [HyVulDect: a hybrid semantic vulnerability mining system based on graph neural network](https://dl.acm.org/doi/10.1016/j.cose.2022.102823) 
+- [HyVulDect: a hybrid semantic vulnerability mining system based on graph neural network](https://dl.acm.org/doi/10.1016/j.cose.2022.102823)
 ![](https://img.shields.io/badge/CCF-B-blue?style=flat-square)
   - **Wenbo Guo**, Yong Fang, Cheng Huang, Haoran Ou, Chun Lin, Yongyan Guo
   - Computers & Security, 2022 <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:9yKSN-GCB0IC'></span></strong>
-  - This paper is about vulnerability detection based on the graph neural network. 
+  - This paper is about vulnerability detection based on the graph neural network.
 
-- [Intelligent mining vulnerabilities in python code snippets](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs211011) 
+- [Viopolicy-detector: An automated approach to detecting GDPR suspected compliance violations in websites](https://dl.acm.org/doi/abs/10.1145/3545948.3545952)
+![](https://img.shields.io/badge/CCF-B-blue?style=flat-square)![](https://img.shields.io/badge/CORE-A-red?style=flat-square)
+  - Haoran Ou, Yong Fang, Yongyan Guo, **Wenbo Guo**, Cheng Huang
+  - Proceedings of the 25th International Symposium on Research in Attacks, Intrusions and Defenses (RAID 2022) <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:u5HHmVD_uO8C'></span></strong>
+  - This paper is about detecting privacy compliance using machine learning method.
+
+- [Intelligent mining vulnerabilities in python code snippets](https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs211011)
   - **Wenbo Guo**, Cheng Huang, Weina Niu, Yong Fang
   - Journal of Intelligent & Fuzzy Systems, 2021 <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:u-x6o8ySG0sC'></span></strong>
-  - This paper is about detecting python vulnerability using the machine learning method. 
+  - This paper is about detecting python vulnerability using the machine learning method.
 
-- [HackerRank: Identifying key hackers in underground forums](https://journals.sagepub.com/doi/full/10.1177/15501477211015145) 
+- [HackerRank: Identifying key hackers in underground forums](https://journals.sagepub.com/doi/full/10.1177/15501477211015145)
   - Cheng Huang, Yongyan Guo, **Wenbo Guo**, Ying Li
   - International Journal of Distributed Sensor Networks, 2021 <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:d1gkVwhDpl0C'></span></strong>
   - This paper is about detecting key hackers in the underground forums.
 
-<p><a href="/publications.html"><b>See all publications →</b></a></p>
-
-
-# 🌐 Platform
-
-- [**Maliverse**](https://www.maliverse.org/) is now online — a unified software supply chain & AI agent security platform that brings together three of our research tools:
-  - **IntelliRadar**: pinpointing malicious packages from cyber threat intelligence (ICSE 2026).
-  - **PyGuard**: knowledge-driven detection of malicious PyPI packages (USENIX Security 2026 & WWW 2026).
-  - **SkillGuard**: detection of malicious AI agent skills (MalSkillBench).
-
-
-# 📖 Educations
-- *2024.01 - Now*, Ph.D. Student at College of Computing and Data Science, Nanyang Technological University, Singapore.
-- *2020.09 - 2023.06*, Postgraduate student at School of Cyber Science and Engineering, Sichuan University, Chengdu, Sichuan, P.R.C. 
-- *2016.09 - 2020.06*, Undergraduate student at School of Cyber Science and Engineering, Sichuan University, Chengdu, Sichuan, P.R.C.
- 
-
-# 🎖 Honors and Awards
-- *2026.06* OpenAI, Startup Credits ($2,500 USD).
-- *2025.12* CCF ChinaSoft (中国软件大会), First Prize (Top 2), Prototype System Competition.
-- *2025.01* OpenAI, Researcher Access Program ($8,000 USD in API credits).
-- *2023.06* Sichuan Province Government, Excellent Graduates.
-- *2021.12* Sichuan University, Dahua Scholarship.
-- *2019.10* Chinese Ministry of Education, National Inspirational Scholarship. 
-
-# 💬 Talks
-- *2026.04*, IntelliRadar: A Comprehensive Platform to Pinpoint Malicious Packages from Cyber Intelligence. ICSE 2026 @ Rio de Janeiro, Brazil
-
-<!-- # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
-
-# 📫 Services
-
-- Artifact Evaluation Committee (AEC): NDSS 2027
-- Artifact Evaluation Committee (AEC): ISSTA 2027
-- Reviewer: IEEE Transactions on Dependable and Secure Computing (TDSC) (2025)
-- Reviewer: Transactions on Information Forensics & Security (TIFS) (2025, 2026)
-- Reviewer: Expert Systems with Applications (2026)
-- Reviewer: ACM International Conference on AI-powered Software (AIware) (2026)
-- Reviewer: Journal of Intelligent & Fuzzy Systems (2022)
-
-
-# 📚 Teaching
-
-- Part-time Student Mentor: School of Cyber Science and Engineering @ SCU, 2020-2023
+- [No Pie in the Sky: The Digital Currency Fraud Website Detection](https://link.springer.com/chapter/10.1007/978-3-031-06365-7_11)
+![](https://img.shields.io/badge/CCF-C-green?style=flat-square)
+  - Haoran Ou, Yongyan Guo, Chaoyi Huang, Zhiying Zhao, **Wenbo Guo**, Yong Fang, Cheng Huang
+  - 2021 IEEE 12th EAI International Conference on Digital Forensics & Cyber Crime (ICDF2C) <strong><span class='show_paper_citations' data='qIvpXMAAAAAJ:qjMakFHDy7sC'></span></strong>
+  - This paper is about detecting Ponzi cryptocurrency using machine learning methods.
