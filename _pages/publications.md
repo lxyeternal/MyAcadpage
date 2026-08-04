@@ -14,6 +14,12 @@ A complete list of my publications and preprints. For a shorter, curated set, se
 
 # 📄 Preprints
 
+- [Mutate to Bypass: Autonomous Endpoint Evasion via Knowledge-Driven Multi-Agent Orchestration](https://arxiv.org/abs/2608.01639)
+![](https://img.shields.io/badge/arXiv-preprint-b31b1b?style=flat-square)
+  - Weifeng Yuan<sup>\*</sup>, **Wenbo Guo**<sup>\*</sup>, Qingyun Du, Jun Chen, Feng Dong, Haoyu Wang, Yang Liu
+  - arXiv preprint, 2026
+  - This paper presents AutoBypass, a knowledge-driven multi-agent framework that turns threat intelligence, expert analyses, and public proofs of concept into evasion techniques, and uses them to measure the resilience of commercial EDR and antivirus products.
+
 - [Skills That Don't Exist: A Large-Scale Study of Hallucinated Skill Recommendation in LLM Agents](https://arxiv.org/abs/2607.12340)
 ![](https://img.shields.io/badge/arXiv-preprint-b31b1b?style=flat-square)
   - Weifeng Yuan, **Wenbo Guo**<sup>†</sup>, Feng Dong, Haoyu Wang, Yang Liu
