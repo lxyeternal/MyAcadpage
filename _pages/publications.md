@@ -49,7 +49,7 @@ A complete list of my publications and preprints. For a shorter, curated set, se
 
 - [An Empirical Study of Observability Limits in Advanced Software Supply Chain Attacks](https://arxiv.org/abs/2603.16694)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
-  - Zhuoran Tan, **Wenbo Guo**, Jiewen Luo, Taylor Brierley, Jeremy Singer, Christos Anagnostopoulos
+  - Zhuoran Tan<sup>\*</sup>, **Wenbo Guo**<sup>\*</sup>, Jiewen Luo, Taylor Brierley, Jeremy Singer, Christos Anagnostopoulos
   - ACM Conference on Computer and Communications Security (CCS), 2026
   - This paper presents SynthChain, a multi-source runtime dataset with chain-level ground truth, and empirically studies the observability limits of software supply chain attacks.
 
