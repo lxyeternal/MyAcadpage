@@ -176,8 +176,9 @@ His research interests include supply chain security and open-source intelligenc
 
 # 📫 Services
 
-- Artifact Evaluation Committee (AEC): NDSS 2027
-- Artifact Evaluation Committee (AEC): ISSTA 2027
+- Artifact Evaluation Committee (AEC): NDSS 2027 (Summer Cycle)
+- Artifact Evaluation Committee (AEC): ISSTA 2026
+- Artifact Evaluation Committee (AEC): ASE 2026
 - Reviewer: IEEE Transactions on Dependable and Secure Computing (TDSC) (2025)
 - Reviewer: Transactions on Information Forensics & Security (TIFS) (2025, 2026)
 - Reviewer: Expert Systems with Applications (2026)
