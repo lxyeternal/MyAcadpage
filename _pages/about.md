@@ -100,6 +100,12 @@ His research interests include supply chain security and open-source intelligenc
   - ACM Conference on Computer and Communications Security (CCS), 2026
   - This paper presents SynthChain, a multi-source runtime dataset with chain-level ground truth, and empirically studies the observability limits of software supply chain attacks.
 
+- [A Context-Consistent Attack Exploiting the Inspection--Execution Gap in Code-Executing Agents]()
+![](https://img.shields.io/badge/Poster-CCS%202026-orange?style=flat-square)
+  - Pei Yan, **Wenbo Guo**, Xianbo Mo, Shunquan Tan, Jiwu Huang
+  - ACM Conference on Computer and Communications Security (CCS), 2026 (Poster)
+  - This paper identifies an inspection--execution gap in code-executing agents, where a runtime transformation after static inspection produces the actual executable payload, and instantiates it as a context-consistent attack hidden in an LSB image-steganography project that reaches an 87.3% attack success rate across nine LLM backends.
+
 - [Cutting the Gordian Knot: Detecting Malicious PyPI Packages via a Knowledge-Mining Framework](https://arxiv.org/abs/2601.16463)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
   - **Wenbo Guo**, Chengwei Liu, Ming Kang, Yiran Zhang, Jiahui Wu, Zhengzi Xu, Vinay Sachidananda, Yang Liu
