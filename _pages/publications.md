@@ -60,7 +60,7 @@ A complete list of my publications and preprints. For a shorter, curated set, se
   - This paper identifies an inspection--execution gap in code-executing agents, where a runtime transformation after static inspection produces the actual executable payload, and instantiates it as a context-consistent attack hidden in an LSB image-steganography project that reaches an 87.3% attack success rate across nine LLM backends.
 
 - [Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution]()
-![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)![](https://img.shields.io/badge/ACM%20SIGSOFT-Distinguished%20Paper%20Award-gold?style=flat-square)
   - Shiwen Song, Yiheng Xiong, **Wenbo Guo**, Manqi Sun, Jiaolong Kong, Xiaofei Xie
   - ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2026
   - This paper characterizes obsolete Android GUI tests caused by UI evolution and proposes an automated approach to repair them.

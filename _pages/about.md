@@ -25,6 +25,7 @@ His research interests include supply chain security and open-source intelligenc
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🏆🏆 Our ISSTA 2026 paper "Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution" received an ACM SIGSOFT Distinguished Paper Award (19 of 210 accepted papers)!
 - *2026.07*: &nbsp;🎉🎉 Two papers were accepted by ASE 2026!
 - *2026.07*: &nbsp;🎉🎉 One paper was accepted by ACM CCS 2026 (Cycle B)!
 - *2026.06*: &nbsp;🎉🎉 Our security platform [Maliverse](https://www.maliverse.org/) is now online, integrating our IntelliRadar, PyGuard, and SkillGuard tools into one supply-chain & AI-agent security platform!
@@ -105,6 +106,12 @@ His research interests include supply chain security and open-source intelligenc
   - Pei Yan, **Wenbo Guo**, Xianbo Mo, Shunquan Tan, Jiwu Huang
   - ACM Conference on Computer and Communications Security (CCS), 2026 (Poster)
   - This paper identifies an inspection--execution gap in code-executing agents, where a runtime transformation after static inspection produces the actual executable payload, and instantiates it as a context-consistent attack hidden in an LSB image-steganography project that reaches an 87.3% attack success rate across nine LLM backends.
+
+- [Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution]()
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)![](https://img.shields.io/badge/ACM%20SIGSOFT-Distinguished%20Paper%20Award-gold?style=flat-square)
+  - Shiwen Song, Yiheng Xiong, **Wenbo Guo**, Manqi Sun, Jiaolong Kong, Xiaofei Xie
+  - ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA), 2026
+  - This paper characterizes obsolete Android GUI tests caused by UI evolution and proposes an automated approach to repair them.
 
 - [Cutting the Gordian Knot: Detecting Malicious PyPI Packages via a Knowledge-Mining Framework](https://arxiv.org/abs/2601.16463)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
