@@ -25,6 +25,8 @@ His research interests include supply chain security and open-source intelligenc
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉🎉 Glad to be selected as a member of the [MSR 2027](https://2027.msrconf.org/) Junior Program Committee (Junior PC)! Submissions are warmly welcome!
+- *2026.09*: &nbsp;🎉🎉 One paper was accepted by NeurIPS 2026!
 - *2026.09*: &nbsp;🏆🏆 Our ISSTA 2026 paper "Characterizing and Repairing Obsolete Android GUI Tests under UI Evolution" received an ACM SIGSOFT Distinguished Paper Award (19 of 210 accepted papers)!
 - *2026.07*: &nbsp;🎉🎉 Two papers were accepted by ASE 2026!
 - *2026.07*: &nbsp;🎉🎉 One paper was accepted by ACM CCS 2026 (Cycle B)!
@@ -82,6 +84,12 @@ His research interests include supply chain security and open-source intelligenc
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
+
+- [Seeing Is Not Screening: Multimodal Hidden Instruction Attacks on Agent Skill Scanners]()
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
+  - Xiaojun Jia, Jie Liao, Simeng Qin, Ke Ma, **Wenbo Guo**, Yebo Feng, Aishan Liu, Yang Liu
+  - 40th Annual Conference on Neural Information Processing Systems (NeurIPS), 2026
+  - This paper presents multimodal hidden instruction attacks that conceal malicious instructions in the non-textual content of agent skills, exposing a blind spot in existing agent skill scanners.
 
 - [How Effective Are NPM Malicious Package Detectors? A Large-Scale Empirical Study](https://arxiv.org/abs/2603.27549)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
@@ -189,6 +197,7 @@ His research interests include supply chain security and open-source intelligenc
 
 # 📫 Services
 
+- Junior Program Committee (Junior PC): MSR 2027
 - Artifact Evaluation Committee (AEC): NDSS 2027 (Summer Cycle)
 - Artifact Evaluation Committee (AEC): ISSTA 2026
 - Artifact Evaluation Committee (AEC): ASE 2026

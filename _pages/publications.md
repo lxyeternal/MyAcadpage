@@ -35,6 +35,12 @@ A complete list of my publications and preprints. For a shorter, curated set, se
 
 # 📝 Publications
 
+- [Seeing Is Not Screening: Multimodal Hidden Instruction Attacks on Agent Skill Scanners]()
+![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
+  - Xiaojun Jia, Jie Liao, Simeng Qin, Ke Ma, **Wenbo Guo**, Yebo Feng, Aishan Liu, Yang Liu
+  - 40th Annual Conference on Neural Information Processing Systems (NeurIPS), 2026
+  - This paper presents multimodal hidden instruction attacks that conceal malicious instructions in the non-textual content of agent skills, exposing a blind spot in existing agent skill scanners.
+
 - [How Effective Are NPM Malicious Package Detectors? A Large-Scale Empirical Study](https://arxiv.org/abs/2603.27549)
 ![](https://img.shields.io/badge/CCF-A-red?style=flat-square)![](https://img.shields.io/badge/CORE-A*-red?style=flat-square)
   - **Wenbo Guo**, Zhongwen Chen, Zhengzi Xu, Chengwei Liu, Ming Kang, Shiwen Song, Chengyue Liu, Yijia Xu, Weisong Sun, Yang Liu
