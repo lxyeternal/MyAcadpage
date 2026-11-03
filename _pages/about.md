@@ -21,12 +21,7 @@ Wenbo Guo (郭文博) is a third-year Ph.D. candidate in the School of Computer 
 
 In 2020, he graduated with honors and earned his Bachelor's degree from Sichuan University. He was subsequently offered direct admission to graduate school at the School of Cyber Security at Sichuan University, where he continued his academic journey towards a Master's degree. During this stage, he was co-advised by Prof. Fang Yong and [Prof. Cheng Huang](https://chenghuang.org/).
 
-His research lies in software and systems security, with a focus on the following directions:
-
-- **Software Supply Chain Security**: detecting and characterizing malicious packages in open-source ecosystems (e.g., PyPI and NPM), and understanding how advanced supply chain attacks unfold and evade observation.
-- **Open-Source Intelligence (OSINT)**: mining cyber threat intelligence from open sources to discover, track, and pinpoint emerging threats at scale.
-- **Malware Analysis and Detection**: knowledge-driven and LLM-assisted analysis of malicious code, from traditional malware to malicious AI agent skills.
-- **Broader Security**: vulnerability discovery, AI and LLM agent security, and endpoint attack and defense.
+His research interests include **supply chain security**, **open-source intelligence**, **malware**, **AI agent security**, and **cybersecurity**.
 
 
 # 🔥 News
